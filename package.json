@@ -1,0 +1,62 @@
+{
+  "name": "micro-bigfive-results",
+  "description": "micro webservice that serves bigfive results",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "author": {
+    "name": "Jonas Enge",
+    "email": "jonas.enge@gmail.com",
+    "url": "https://github.com/maccyber"
+  },
+  "contributors": [
+    {
+      "name": "Geir Gåsodden",
+      "email": "geir.gasodden@pythonia.no",
+      "url": "https://github.com/zrrrzzt"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=7.4.0"
+  },
+  "scripts": {
+    "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
+    "test-offline": "standard && tap --reporter=spec test/**/*.js",
+    "coverage": "tap test/**/*.js --coverage",
+    "coveralls": "tap --cov --coverage-report=lcov test/**/*.js && cat coverage/lcov.info | coveralls",
+    "setup": "npm install",
+    "standard-fix": "standard --fix",
+    "start": "micro -p 3000"
+  },
+  "keywords": [
+    "microservice",
+    "micro",
+    "bigfive"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/maccyber/micro-bigfive-results.git"
+  },
+  "bugs": {
+    "url": "http://github.com/maccyber/micro-bigfive-results/issues"
+  },
+  "devDependencies": {
+    "coveralls": "2.11.15",
+    "nsp": "2.6.2",
+    "standard": "8.6.0",
+    "tap": "10.0.2"
+  },
+  "dependencies": {
+    "marked": "0.3.6",
+    "micro": "7.0.0"
+  },
+  "now": {
+    "aliases": [
+      "bigfive-results.now.sh"
+    ],
+    "env": {
+      "NODE_ENV": "production"
+    }
+  }
+}
