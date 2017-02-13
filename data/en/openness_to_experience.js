@@ -38,19 +38,19 @@ a number of service occupations.`,
       score: 'negative',
       text: `Your score on Openness to Experience is low, indicating you like to think in
 plain and simple terms. Others describe you as down-to-earth, practical,
-and conservative.`
+and conservative. Your score is: {{score}}`
     },
     {
       score: 'neutral',
       text: `Your score on Openness to Experience is average, indicating you enjoy
 tradition but are willing to try new things. Your thinking is neither
 simple nor complex. To others you appear to be a well-educated person
-but not an intellectual.`
+but not an intellectual. Your score is: {{score}}`
     },
     {
       score: 'positive',
       text: `Your score on Openness to Experience is high, indicating you enjoy novelty,
-variety, and change. You are curious, imaginative, and creative.`
+variety, and change. You are curious, imaginative, and creative. Your score is: {{score}}`
     }
   ],
   facets: [

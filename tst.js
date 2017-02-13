@@ -1,18 +1,14 @@
 'use strict'
 
-const results = require('./data/index')
+const findDomain = require('./lib/find-domain')
 
-const testData = [
-  {
-    domain: 'A',
-    score: 3,
-    result: 'neutral'
-  },
-  {
-    domain: 'E',
-    score: 1,
-    result: 'negative'
-  }
-]
+const testData = {
+  O: { score: 33, count: 10, result: 'positive', facet: {} },
+  N: { score: 21, count: 10, result: 'negative', facet: {} },
+  E: { score: 31, count: 10, result: 'positive', facet: {} },
+  C: { score: 31, count: 10, result: 'positive', facet: {} },
+  A: { score: 30, count: 10, result: 'neutral', facet: {} }
+}
 
-console.log(results)
+const domains = findDomain(testData)
+console.log(JSON.stringify(domains, null, 2))

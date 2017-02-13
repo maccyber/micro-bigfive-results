@@ -52,18 +52,18 @@ they will never be called stuffy.`,
       score: 'negative',
       text: `Your score on Conscientiousness is low, indicating you like to live
 for the moment and do what feels good now. Your work tends to be
-careless and disorganized.`
+careless and disorganized. Your score is: {{score}}`
     },
     {
       score: 'neutral',
       text: `Your score on Conscientiousness is average. This means you are
-reasonably reliable, organized, and self-controlled.`
+reasonably reliable, organized, and self-controlled. Your score is: {{score}}`
     },
     {
       score: 'positive',
       text: `Your score on Conscientiousness is high. This means you set clear
 goals and pursue them with determination. People regard you as
-reliable and hard-working.`
+reliable and hard-working. Your score is: {{score}}`
     }
   ],
   facets: [

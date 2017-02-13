@@ -23,19 +23,19 @@ people can make excellent scientists, critics, or soldiers.`,
       score: 'negative',
       text: `Your score on Agreeableness is low, indicating less concern
 with others' needs than with your own. People see you as tough,
-critical, and uncompromising.`
+critical, and uncompromising. Your score is: {{score}}`
     },
     {
       score: 'neutral',
       text: `Your level of Agreeableness is average, indicating some concern
 with others' Needs, but, generally, unwillingness to sacrifice
-yourself for others.`
+yourself for others. Your score is: {{score}}`
     },
     {
       score: 'positive',
       text: `Your high level of Agreeableness indicates a strong interest in
 others' needs and well-being. You are pleasant, sympathetic, and
-cooperative.`
+cooperative. Your score is: {{score}}`
     }
   ],
   facets: [

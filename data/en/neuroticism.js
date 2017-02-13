@@ -26,7 +26,7 @@ decisions, and cope effectively with stress.`,
       text: `Your score on Neuroticism is low, indicating that you are
 exceptionally calm, composed and unflappable. You do not react with
 intense emotions, even to situations that most people would describe
-as stressful.`
+as stressful. Your score is: {{score}}`
     },
     {
       score: 'neutral',
@@ -34,13 +34,13 @@ as stressful.`
 emotional reactivity is typical of the general population.
 Stressful and frustrating situations are somewhat upsetting to you,
 but you are generally able to get over these feelings and cope with
-these situations.`
+these situations. Your score is: {{score}}`
     },
     {
       score: 'positive',
       text: `Your score on Neuroticism is high, indicating that you are easily
 upset, even by what most people consider the normal demands of
-living. People consider you to be sensitive and emotional.`
+living. People consider you to be sensitive and emotional. Your score is: {{score}}`
     }
   ],
   facets: [

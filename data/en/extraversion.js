@@ -24,19 +24,19 @@ seek others out but will be quite pleasant when approached.`,
       text: `Your score on Extraversion is low, indicating you are
 introverted, reserved, and quiet. You enjoy solitude and solitary
 activities. Your socializing tends to be restricted to a few close
-friends.`
+friends. Your score is: {{score}}`
     },
     {
       score: 'neutral',
       text: `Your score on Extraversion is average, indicating you are
 neither a subdued loner nor a jovial chatterbox. You enjoy time with
-others but also time alone.`
+others but also time alone. Your score is: {{score}}`
     },
     {
       score: 'positive',
       text: `Your score on Extraversion is high, indicating you are
 sociable, outgoing, energetic, and lively. You prefer to be around
-people much of the time.`
+people much of the time. Your score is: {{score}}`
     }
   ],
   facets: [

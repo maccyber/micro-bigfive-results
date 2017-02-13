@@ -4,6 +4,7 @@ const readFileSync = require('fs').readFileSync
 const marked = require('marked')
 const { parse } = require('url')
 const { json, send } = require('micro')
+const findDomain = require('./lib/find-domain')
 
 module.exports = async (req, res) => {
   const {query, pathname} = await parse(req.url, true)
@@ -11,7 +12,8 @@ module.exports = async (req, res) => {
   let result = {}
   if (pathname === '/getResults') {
     console.log(data)
-    result = 'something'
+    // lang
+    result = findDomain(data)
   } else {
     const readme = readFileSync('./README.md', 'utf-8')
     result = marked(readme)
