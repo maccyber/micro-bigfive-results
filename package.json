@@ -18,7 +18,7 @@
   ],
   "main": "index.js",
   "engines": {
-    "node": ">=7.4.0"
+    "node": ">=7.5.0"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
@@ -27,7 +27,7 @@
     "coveralls": "tap --cov --coverage-report=lcov test/**/*.js && cat coverage/lcov.info | coveralls",
     "setup": "npm install",
     "standard-fix": "standard --fix",
-    "start": "micro -p 3000"
+    "start": "micro"
   },
   "keywords": [
     "microservice",
@@ -36,25 +36,23 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/maccyber/micro-bigfive-results.git"
+    "url": "https://github.com/maccyber/micro-bigfive-results.git"
   },
   "bugs": {
-    "url": "http://github.com/maccyber/micro-bigfive-results/issues"
+    "url": "https://github.com/maccyber/micro-bigfive-results/issues"
   },
   "devDependencies": {
     "coveralls": "2.11.15",
     "nsp": "2.6.2",
     "standard": "8.6.0",
-    "tap": "10.0.2"
+    "tap": "10.1.0"
   },
   "dependencies": {
     "marked": "0.3.6",
-    "micro": "7.0.0"
+    "micro": "7.0.6"
   },
   "now": {
-    "aliases": [
-      "bigfive-results.now.sh"
-    ],
+    "alias": "bigfive-results.now.sh",
     "env": {
       "NODE_ENV": "production"
     }
