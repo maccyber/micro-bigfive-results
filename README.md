@@ -7,11 +7,18 @@ micro webservice that returs bigfive results score
 ## Questions
 
 ```sh
-$ curl -v http://localhost:3000/getQuestions -d '{ "lang": "en" }'
-```
-
-```sh
-$ curl -v http://localhost:3000/getQuestions?lang=en
+$ curl -v http://localhost:3000/getResults -d '{
+  "testType": "personality",
+  "langCode": "no",
+  "data": {
+    "O": { "score":33, "count":10, "result":"positive", "facet":{} },
+    "N": { "score":21, "count":10, "result":"negative", "facet":{} },
+    "E": { "score":31, "count":10, "result":"positive", "facet":{} },
+    "C": { "score":31, "count":10, "result":"positive", "facet":{} },
+    "A": { "score":30, "count":10, "result":"neutral", "facet":{} }
+  }
+}
+'
 ```
 
 Both returns
@@ -22,7 +29,7 @@ Both returns
 
 ## Supported languages
 
-Set ```lang``` to code
+Set ```langCode``` to code
 
 | Code | Name |
 | ---- | ---- |
@@ -36,7 +43,7 @@ Use [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language 
 ## Deploy using [Now](https://zeit.co/now)
 
 ```sh
-$ now https://github.com/maccyber/micro-bigfive-questions
+$ now https://github.com/maccyber/micro-bigfive-results
 ```
 
 ## License

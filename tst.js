@@ -1,7 +1,7 @@
 'use strict'
 
 const findDomain = require('./lib/find-domain')
-
+const getTest = require('./lib/get-test')
 const testData = {
   O: { score: 33, count: 10, result: 'positive', facet: {} },
   N: { score: 21, count: 10, result: 'negative', facet: {} },
@@ -10,5 +10,6 @@ const testData = {
   A: { score: 30, count: 10, result: 'neutral', facet: {} }
 }
 
-const domains = findDomain(testData)
+const template = getTest({testType: 'personality', langCode: 'no'})
+const domains = findDomain(testData, template)
 console.log(JSON.stringify(domains, null, 2))
