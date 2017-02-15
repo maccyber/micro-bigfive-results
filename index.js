@@ -8,10 +8,10 @@ const getTest = require('./lib/get-test')
 const findDomain = require('./lib/find-domain')
 
 module.exports = async (req, res) => {
-  const {query, pathname} = await parse(req.url, true)
+  const {query} = await parse(req.url, true)
   const data = req.method === 'POST' ? await json(req) : query
   let result = {}
-  if (pathname === '/getResults') {
+  if (req.method === 'POST') {
     const opts = {
       langCode: data.langCode || 'en',
       testType: data.testType || 'personality'
