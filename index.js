@@ -13,7 +13,7 @@ module.exports = async (req, res) => {
   let result = {}
   if (req.method === 'POST') {
     const opts = {
-      langCode: data.langCode || 'en',
+      langCode: data.lang || 'en',
       testType: data.testType || 'personality'
     }
     const template = getTest(opts)
