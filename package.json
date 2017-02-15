@@ -52,7 +52,7 @@
     "micro": "7.0.6"
   },
   "now": {
-    "alias": "bigfive-results.now.sh",
+    "alias": "results.bigfive.maccyber.io",
     "env": {
       "NODE_ENV": "production"
     }

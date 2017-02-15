@@ -1,6 +1,6 @@
 # micro-bigfive-results
 
-Example: https://bigfive-results.now.sh/
+Example: https://results.bigfive.maccyber.io/
 
 micro webservice that returs bigfive results score
 
