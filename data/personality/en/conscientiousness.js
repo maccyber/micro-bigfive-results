@@ -35,8 +35,7 @@ of short-lived impulses to the contrary. The idea that intelligence
 involves impulse control is nicely captured by the term prudence, an
 alternative label for the Conscientiousness domain. Prudent means
 both wise and cautious. Persons who score high on the
-Conscientiousness scale are, in fact, perceived by others as
-intelligent.
+Conscientiousness scale are, in fact, perceived by others as intelligent.
 The benefits of high conscientiousness are obvious. Conscientious
 individuals avoid trouble and achieve high levels of success through
 purposeful planning and persistence. They are also positively
@@ -52,18 +51,18 @@ they will never be called stuffy.`,
       score: 'negative',
       text: `Your score on Conscientiousness is low, indicating you like to live
 for the moment and do what feels good now. Your work tends to be
-careless and disorganized. Your score is: {{score}}`
+careless and disorganized.`
     },
     {
       score: 'neutral',
       text: `Your score on Conscientiousness is average. This means you are
-reasonably reliable, organized, and self-controlled. Your score is: {{score}}`
+reasonably reliable, organized, and self-controlled.`
     },
     {
       score: 'positive',
       text: `Your score on Conscientiousness is high. This means you set clear
 goals and pursue them with determination. People regard you as
-reliable and hard-working. Your score is: {{score}}`
+reliable and hard-working.`
     }
   ],
   facets: [
@@ -74,7 +73,7 @@ reliable and hard-working. Your score is: {{score}}`
 to accomplish things. High scorers believe they have the intelligence
 (common sense), drive, and self-control necessary for achieving success.
 Low scorers do not feel effective, and may have a sense that they are not
-in control of their lives. Your level of self-efficacy is {{score}}`
+in control of their lives.`
     },
     {
       facet: 2,
@@ -82,7 +81,7 @@ in control of their lives. Your level of self-efficacy is {{score}}`
       text: `Persons with high scores on orderliness are
 well-organized. They like to live according to routines and schedules. They
 keep lists and make plans. Low scorers tend to be disorganized and
-scattered. Your level of orderliness is {{score}}`
+scattered.`
     },
     {
       facet: 3,
@@ -93,8 +92,7 @@ assist those who are in need. Altruistic people find that doing
 things for others is a form of self-fulfillment rather than
 self-sacrifice. Low scorers on this scale do not particularly like
 helping those in need. Requests for help feel like an imposition
-rather than an opportunity for self-fulfillment. Your level of
-altruism is {{score}}`
+rather than an opportunity for self-fulfillment.`
     },
     {
       facet: 4,
@@ -105,7 +103,7 @@ successful keeps them on track toward their lofty goals. They often have
 a strong sense of direction in life, but extremely high scores may
 be too single-minded and obsessed with their work. Low scorers are content
 to get by with a minimal amount of work, and might be seen by others
-as lazy. Your level of achievement striving is {{score}}`
+as lazy.`
     },
     {
       facet: 5,
@@ -116,7 +114,7 @@ tasks until they are completed. People who possess high self-discipline
 are able to overcome reluctance to begin tasks and stay on track despite
 distractions. Those with low self-discipline procrastinate and show poor
 follow-through, often failing to complete tasks-even tasks they want very
-much to complete. Your level of self-discipline is {{score}}`
+much to complete.`
     },
     {
       facet: 6,
@@ -125,8 +123,7 @@ much to complete. Your level of self-discipline is {{score}}`
 think through possibilities before acting. High scorers on the Cautiousness
 scale take their time when making decisions. Low scorers often say or do
 first thing that comes to mind without deliberating alternatives and the
-probable consequences of those alternatives. Your level
-of cautiousness is {{score}}`
+probable consequences of those alternatives.`
     }
   ]
 }

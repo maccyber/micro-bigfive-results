@@ -26,20 +26,19 @@ seek others out but will be quite pleasant when approached.`,
       text: `Ditt resultat på ekstroversjon er lavt, noe som tyder på at du er
 introvert, reservert og stille. Du liker å være alene og aktiviteter du kan
 gjøre for deg selv. Den sosiale delen av livet ditt omfatter noen få nære
-venner. Ditt resultat er: {{score}}`
+venner.`
     },
     {
       score: 'neutral',
       text: `Ditt resultat på ekstroversjon er gjennomsnittlig, noe som tyder
       på at du verken foretrekker å være alene eller en godmodig pratemaker. Du
-      liker å være med andre, samtidig som du også setter pris på alene-tid.
-      Ditt resultat er: {{score}}`
+      liker å være med andre, samtidig som du også setter pris på alene-tid.`
     },
     {
       score: 'positive',
       text: `Ditt resultat på ekstroversjon er høyt, noe som tyder på at du er
 sosial, utadvendt, energisk og livlig. Du foretrekker å være med andre
-mesteparten av tiden. Ditt resultat er: {{score}}`
+mesteparten av tiden.`
     }
   ],
   facets: [
@@ -50,7 +49,7 @@ mesteparten av tiden. Ditt resultat er: {{score}}`
 følelser de har ovenfor andre. De får letter venner, og det er enkelt for
 dem å danne nære, intime forhold. De som skårer lavt på vennlighet er ikke
 nødvendvis kalde og fiendtlige, men de knytter seg ikke til andre og blir
-oppfattet som distanserte og reserverte. Ditt resultat på vennlighet er {{score}}`
+oppfattet som distanserte og reserverte.`
     },
     {
       facet: 2,
@@ -60,8 +59,7 @@ finner det stimulerende og får mye ut av det. De synes det er spennende
 med mange mennesker. De som skårer lavt føler seg overveldet av mange
 mennesker, og unngår derfor aktivt slike situasjoner. Det er ikke det at
 de nødvendigvis misliker å være med mennesker fra tid til annen, men deres
-behov for privatliv og tid for seg selv er større enn for individer som
-skårer høyt her. Ditt resultat på sosiabilitet er {{score}}`
+behov for privatliv og tid for seg selv er større enn for individer som skårer høyt her.`
     },
     {
       facet: 3,
@@ -69,7 +67,7 @@ skårer høyt her. Ditt resultat på sosiabilitet er {{score}}`
       text: `De som skårer høyt på selvmarkering liker å si i fra, ta ansvar
 og styre andres aktiviteter. De er ofte leder i grupper. De som skårer
 lavt pleier ikke å være så snakkesalige og lar andre kontrollere det
-som skal foregå i gruppa. Ditt nivå på selvmarkering er {{score}}`
+som skal foregå i gruppa.`
     },
     {
       facet: 4,
@@ -77,7 +75,7 @@ som skal foregå i gruppa. Ditt nivå på selvmarkering er {{score}}`
       text: `Aktive individer er travle og lever hektiske liv. De er som oftest
 i bevegelse, er rakse og energiske, og de er med på mange aktiviteter.
 Mennesker som skårer lavt på dette er roliger og følger et mer avslappet
-løp. Ditt resultat på aktivitet er {{score}}`
+løp.`
     },
     {
       facet: 5,
@@ -85,8 +83,7 @@ løp. Ditt resultat på aktivitet er {{score}}`
       text: `De som skårer høyt på dette kjeder seg lett hvis de ikke opplever
 så mye stimuli. De elsker mye lys og fart og spenning. De lever ofte
 risikofullt og søker spenning. De som skårer lavt blir satt ut av
-støy og bråk og oppsøker ikke fart og spenning. Ditt resultat på
-spennings-søking er {{score}}`
+støy og bråk og oppsøker ikke fart og spenning.`
     },
     {
       facet: 6,
@@ -95,8 +92,7 @@ spennings-søking er {{score}}`
 følelser, ikke negative følelser (som er en del av
 nevrotisisme-området). Personer som skårer høyt her opplever ofte en rekke
 positive følelser, slik som glede, entusiasme og begeistring. De som skårer
-lavt er ikke så tilbøyelige til å føle at de bobler over av energi og glede.
-Ditt resultat på positive følelser er {{score}}.`
+lavt er ikke så tilbøyelige til å føle at de bobler over av energi og glede.`
     }
   ]
 }

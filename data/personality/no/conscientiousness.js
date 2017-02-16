@@ -47,81 +47,72 @@ aldri bli betegnet som reserverte og kjedelige`,
       score: 'negative',
       text: `Ditt resultat på planmessighet er lavt, noe som tyder på at du
 liker å leve i øyeblikket og gjøre det som føles bra her og nå. Arbeidet
-ditt er ofte unøyaktig og dårlig organisert. Ditt resultat er: {{score}}`
+ditt er ofte unøyaktig og dårlig organisert.`
     },
     {
       score: 'neutral',
       text: `Ditt resultat på planmessighet er gjennomsnittlig. Dette betyr at
-du er ganske pålitelig, organisert og har kontroll på deg selv. Ditt resultat er: {{score}}`
+du er ganske pålitelig, organisert og har kontroll på deg selv.`
     },
     {
       score: 'positive',
       text: `Ditt resultat på planmessighet er høyt. Dette betyr at du setter
 deg klare mål og følger dem fast. Andre ser på deg som pålitelig og
-hardt-arbeidende. Ditt resultat er: {{score}}`
+hardt-arbeidende.`
     }
   ],
   facets: [
     {
       facet: 1,
-      title: 'Self-Efficacy',
-      text: `Self-Efficacy describes confidence in one's ability
-to accomplish things. High scorers believe they have the intelligence
-(common sense), drive, and self-control necessary for achieving success.
-Low scorers do not feel effective, and may have a sense that they are not
-in control of their lives. Your level of self-efficacy is {{score}}`
+      title: 'Kompetanse',
+      text: `Kompetanse beskriver evnen til å oppnå ting. De som skårer høyt
+mener at de har intelligensen (fornuften), drivet og selvkontrollen som kreves
+for å lykkes. De som skårer lavt føler seg ikke så effektive og føler at de
+ikke har så god kontroll på livet sitt`
     },
     {
       facet: 2,
-      title: 'Orderliness',
-      text: `Persons with high scores on orderliness are
-well-organized. They like to live according to routines and schedules. They
-keep lists and make plans. Low scorers tend to be disorganized and
-scattered. Your level of orderliness is {{score}}`
+      title: 'Orden',
+      text: `Personer med høy skåre på orden er velorganiserte.
+De liker å  ha rutiner og skjemaer for å regulere livet sitt.
+De lager lister og legger planer. De som skårer lavter uorganiserte og usystematiske`
     },
     {
       facet: 3,
-      title: 'Dutifulness',
-      text: `Altruistic people find helping other people
-genuinely rewarding. Consequently, they are generally willing to
-assist those who are in need. Altruistic people find that doing
-things for others is a form of self-fulfillment rather than
-self-sacrifice. Low scorers on this scale do not particularly like
-helping those in need. Requests for help feel like an imposition
-rather than an opportunity for self-fulfillment. Your level of
-altruism is {{score}}`
+      title: 'Pliktoppfyllenhet',
+      text: `Denne fasetten gjenspeiler styrkegraden av en persons pliktfølelse.
+De som skårer høyt på dette har en sterk følelse av moralske for-pliktelser.
+De som skårer lavt synes kontrakter, regler og reguleringer virker begrensende på dem.
+De blir ofte sett på som upålitelige og til og med uansvarlige.`
     },
     {
       facet: 4,
-      title: 'Achievement-Striving',
-      text: `Individuals who score high on this
-scale strive hard to achieve excellence. Their drive to be recognized as
-successful keeps them on track toward their lofty goals. They often have
-a strong sense of direction in life, but extremely high scores may
-be too single-minded and obsessed with their work. Low scorers are content
-to get by with a minimal amount of work, and might be seen by others
-as lazy. Your level of achievement striving is {{score}}`
+      title: 'Prestasjonsstreben',
+      text: `Individer som skårer høyt her jobber hardt for å utmerke seg.
+Deres fokusering på suksess og anerkjennelse gjør at de streber etter å nå
+de høye målene de har satt seg. De har ofte en sterk følelse og mål for det
+de vil med livet sitt, og de som har svært høye skårer her kan være veldig
+ensrettede og fullstendig oppslukt av arbeidet sitt. De som skårer lavt vil
+komme seg unna med et minimum av arbeid, og kan bli sett på som late.`
     },
     {
       facet: 5,
-      title: 'Self-Discipline',
-      text: `Self-discipline-what many people call
-will-power-refers to the ability to persist at difficult or unpleasant
-tasks until they are completed. People who possess high self-discipline
-are able to overcome reluctance to begin tasks and stay on track despite
-distractions. Those with low self-discipline procrastinate and show poor
-follow-through, often failing to complete tasks-even tasks they want very
-much to complete. Your level of self-discipline is {{score}}`
+      title: 'Selvdisiplin',
+      text: `Selvdisiplin, eller hva mange kaller viljestyrke, omhandler evnen
+til utholdenhet, noe som gjør at man fullfører oppgaver som ikke er så lystbetonte.
+Personer som har denne høye selvdisiplinen klarer å overvinne motstanden mot å starte
+på slike oppgaver og klarer å heve seg over eventuelle distraksjoner mens de arbeider.
+De som har lav selvdisiplin prokastinerer og viser liten evne til å
+gjennomføre og fullføre oppgaver, selv oppgaver de gjerne ønsker å bli ferdige med.`
     },
     {
       facet: 6,
-      title: 'Cautiousness',
-      text: `Cautiousness describes the disposition to
-think through possibilities before acting. High scorers on the Cautiousness
-scale take their time when making decisions. Low scorers often say or do
-first thing that comes to mind without deliberating alternatives and the
-probable consequences of those alternatives. Your level
-of cautiousness is {{score}}`
+      title: 'Betenksomhet',
+      text: `Betenksomhet omhandler anlegget du har for å tenke igjennom ulike
+muligheter og alternativer du har før du handler. De som skårer høyt på betenksomhet
+tar seg god tid når de skal fatte beslutninger. De som skårer lavt gjør ofte det
+første og beste de tenker på uten å tenke igjennom alternativer eller mulige
+konsekvenser av disse alternative.`
     }
   ]
 }

@@ -23,20 +23,19 @@ seek others out but will be quite pleasant when approached.`,
       score: 'negative',
       text: `Your score on Extraversion is low, indicating you are
 introverted, reserved, and quiet. You enjoy solitude and solitary
-activities. Your socializing tends to be restricted to a few close
-friends. Your score is: {{score}}`
+activities. Your socializing tends to be restricted to a few close friends.`
     },
     {
       score: 'neutral',
       text: `Your score on Extraversion is average, indicating you are
 neither a subdued loner nor a jovial chatterbox. You enjoy time with
-others but also time alone. Your score is: {{score}}`
+others but also time alone.`
     },
     {
       score: 'positive',
       text: `Your score on Extraversion is high, indicating you are
 sociable, outgoing, energetic, and lively. You prefer to be around
-people much of the time. Your score is: {{score}}`
+people much of the time.`
     }
   ],
   facets: [
@@ -48,7 +47,7 @@ and openly demonstrate positive feelings toward others. They make
 friends quickly and it is easy for them to form close, intimate
 relationships. Low scorers on Friendliness are not necessarily cold
 and hostile, but they do not reach out to others and are perceived
-as distant and reserved. Your level of friendliness is {{score}}`
+as distant and reserved.`
     },
     {
       facet: 2,
@@ -59,7 +58,7 @@ excitement of crowds. Low scorers tend to feel overwhelmed by, and
 therefore actively avoid, large crowds. They do not necessarily
 dislike being with people sometimes, but their need for privacy and
 time to themselves is much greater than for individuals who score
-high on this scale. Your level of gregariousness is {{score}}`
+high on this scale.`
     },
     {
       facet: 3,
@@ -67,8 +66,7 @@ high on this scale. Your level of gregariousness is {{score}}`
       text: `High scorers Assertiveness like to speak
  out, take charge, and direct the activities of others. They tend to
  be leaders in groups. Low scorers tend not to talk much and let
- others control the activities of groups. Your level of
- assertiveness is {{score}}`
+ others control the activities of groups.`
     },
     {
       facet: 4,
@@ -76,8 +74,7 @@ high on this scale. Your level of gregariousness is {{score}}`
       text: `Active individuals lead fast-paced, busy
  lives. They move about quickly, energetically, and vigorously, and
  they are involved in many activities. People who score low on this
- scale follow a slower and more leisurely, relaxed pace. Your
- activity level is {{score}}`
+ scale follow a slower and more leisurely, relaxed pace.`
     },
     {
       facet: 5,
@@ -86,8 +83,7 @@ high on this scale. Your level of gregariousness is {{score}}`
 bored without high levels of stimulation. They love bright lights
 and hustle and bustle. They are likely to take risks and seek
 thrills. Low scorers are overwhelmed by noise and commotion and are
-adverse to thrill-seeking. Your level of excitement-seeking is
-{{score}}`
+adverse to thrill-seeking.`
     },
     {
       facet: 6,
@@ -97,8 +93,7 @@ feelings, not negative emotions (which are a part of the
 Neuroticism domain). Persons who score high on this scale typically
 experience a range of positive feelings, including happiness,
 enthusiasm, optimism, and joy. Low scorers are not as prone to such
-energetic, high spirits. Your level of positive emotions is
-{{score}}.`
+energetic, high spirits.`
     }
   ]
 }

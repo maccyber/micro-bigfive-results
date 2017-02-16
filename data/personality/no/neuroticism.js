@@ -23,8 +23,7 @@ stress effektivt.`,
       score: 'negative',
       text: `Ditt resultat på nevrotisisme er lavt, noe som tyder på at du er
 usedvanlig rolig, fattet og holder på sinnsroen. Du reagerer ikke med
-intense følelser, selv på situasjoner som de fleste mennesker vil oppfatte
-som stressende. Ditt resultat er: {{score}}`
+intense følelser, selv på situasjoner som de fleste mennesker vil oppfatte som stressende.`
     },
     {
       score: 'neutral',
@@ -32,13 +31,13 @@ som stressende. Ditt resultat er: {{score}}`
 på at ditt nivå på følesesmessig reaktivitet er slik som er vanlig i den
 generelle befolkningen. Stressende og frustrerende situasjoner kan virke
 opprørende på deg, men du er generelt i stand til å komme over disse
-følelsene og håndtere disse situasjonene. Ditt resultat er: {{score}}`
+følelsene og håndtere disse situasjonene.`
     },
     {
       score: 'positive',
       text: `Ditt resultat på nevrotisisme er høyt, noe som tyder på at du blir
 lett opprørt, selv i situasjoner som de fleste ser på som noe som man kan
-forvente av livsutfordringer. Andre ser på deg som følsom og sensibel. Ditt resultat er: {{score}}`
+forvente av livsutfordringer. Andre ser på deg som følsom og sensibel.`
     }
   ],
   facets: [
@@ -50,7 +49,7 @@ forvente av livsutfordringer. Andre ser på deg som følsom og sensibel. Ditt re
 individer som skårer høyt her lett føle at det er fare på ferde. De kan være
 redde for spesifikke situasjoner eller kan være generelt fryktsomme. De føler
 seg anspente, urolige og nervøse. Personer som skårer lavt på angst er
-generelt rolige og fryktløse. Ditt resultat på angst er {{score}}`
+generelt rolige og fryktløse.`
     },
     {
       facet: 2,
@@ -61,7 +60,7 @@ rettferdig, de blir opprørte og bitre når de føler at de blir sviktet eller
 bedratt. Denne fasetten måler tendensen til å føle sinne; om eller
 om ikke personen uttrykker misnøye eller fiendtlighet avhenger av
 individets nivå når det gjelder medmenneskelighet. De som skårer lavt blir ikke
-så ofte eller fort sinte. Ditt resultat på sinne er {{score}}`
+så ofte eller fort sinte.`
     },
     {
       facet: 3,
@@ -69,7 +68,7 @@ så ofte eller fort sinte. Ditt resultat på sinne er {{score}}`
       text: `Denne fasetten måler tendensen til å føle seg trist, motløs eller
 nedstemt. De som skårer høyt mangler energi og har problemer med å ta
 initiativet til aktiviteter. De som skårer lavt pleier å være fri for
-disse depressive følelsene. Ditt resultat på depresjon er {{score}}`
+disse depressive følelsene.`
     },
     {
       facet: 4,
@@ -81,8 +80,7 @@ og føler skam. Frykten for at andre skal kritisere dem eller gjøre dem
 til latter er ofte overdrevet og er ikke reell, men det åpenbare
 ubehaget kan gjøre frykten til en selvoppfyllende profeti. De som
 skårer lavt, derimot, deler ikke det feilaktige inntrykket av at
-alle vurderer og dømmer dem. De føler seg ikke nervøse i sosiale
-situasjoner. Ditt resultat på Selvbevissthet er {{score}}.`
+alle vurderer og dømmer dem. De føler seg ikke nervøse i sosiale situasjoner.`
     },
     {
       facet: 5,
@@ -91,8 +89,7 @@ situasjoner. Ditt resultat på Selvbevissthet er {{score}}.`
 er vanskelig å motstå. De styrer ofte mot kortlivede gleder og
 det som innkasserer rask belønning framfor det som gir glede i
 det lange løp. De som skårer lavt opplever ikke sterke,
-uimotståelige lyster og blir dermed ikke fristet til å kaste seg
-ut i ting. Ditt resultat på impulsivitet er {{score}}`
+uimotståelige lyster og blir dermed ikke fristet til å kaste seg ut i ting.`
     },
     {
       facet: 6,
@@ -100,7 +97,7 @@ ut i ting. Ditt resultat på impulsivitet er {{score}}`
       text: `De som skårer høyt på sårbarhet opplever panikk,
 forvirring og hjelpeløshet i pressede eller stressede situasjoner.
 De som skårer lavt føler seg roligere, sikre og klarttenkende når
-de er stresset. Ditt resultat for sårbarhet er {{score}}`
+de er stresset.`
     }
   ]
 }

@@ -38,20 +38,20 @@ service-yrker.`,
       score: 'negative',
       text: `Din skåre på åpenhet for erfaringer er lav, noe som tyder på at
 du liker å tenke enkelt og rett-fram begrepsmessig. Andre beskriver
-deg som jordnær, praktisk og konservativ. Ditt resultat er: {{score}}`
+deg som jordnær, praktisk og konservativ.`
     },
     {
       score: 'neutral',
       text: `Din skåre på åpenhet for erfaringer er gjennomsnittlig,
 noe som tyder på at du liker tradisjoner, men er villig til å prøve
 nye ting. Tenkningen din er verken enkel eller kompleks. For andre
-framstår du som en velutdannet person, men ikke en intellektuell. Ditt resultat er: {{score}}`
+framstår du som en velutdannet person, men ikke en intellektuell.`
     },
     {
       score: 'positive',
       text: `Din skåre på åpenhet for erfaringer er høy, noe som tyder på
 at du liker nye ting, variasjon og forandring. Du er nysgjerrig,
-fantasifull og kreativ. Ditt resultat er: {{score}}`
+fantasifull og kreativ.`
     }
   ],
   facets: [
@@ -61,7 +61,7 @@ fantasifull og kreativ. Ditt resultat er: {{score}}`
       text: `For individer med mye fantasi er den virkelige verden ofte
 for enkel og ordinær. De som skårer høyt her bruker fantasien for å skape
 seg en rikere og mer interessant verden. De som skårer lavt her er mer
-faktaorienterte. Ditt resultat på fantasi er {{score}}`
+faktaorienterte.`
     },
     {
       facet: 2,
@@ -71,15 +71,14 @@ De lar seg lett rive med og begeistres av det kunstneriske og det som skjer i
 naturen. De er ikke nødvendigvis talentfulle eller utdannet innenfor disse
 områdene, selv om mange vil være det. Trekkene som definerer denne skalaen er
 interesse for, og verdsettelse av naturlig og kunstnerisk
-skjønnhet. De som skårer lavt mangler estetisk sans og interesse for
-kunst. Ditt resultat på estetikk er {{score}}`
+skjønnhet. De som skårer lavt mangler estetisk sans og interesse for kunst.`
     },
     {
       facet: 3,
       title: 'Følelser',
       text: `Personer som skårer høyt på følelser har god kontakt med sine
 egne følelser. De som skårer lavt er mindre oppmerksomme på egne
-følelser og vil ikke gi åpent uttrykk for dem. Ditt resultat på følelser er {{score}}`
+følelser og vil ikke gi åpent uttrykk for dem.`
     },
     {
       facet: 4,
@@ -87,8 +86,7 @@ følelser og vil ikke gi åpent uttrykk for dem. Ditt resultat på følelser er 
       text: `De som skårer høyt på dette vil gjerne prøve nye aktiviteter,
 reise til fremmede land og oppleve nye ting. De synes rutine og det kjente
 er kjedelig og vil velge en annen vei hjem kun fordi den er annerledes.
-De som skårer lavt liker dårlig forandring og foretrekker kjente rutiner.
-Ditt resultat på eventyrlyst er {{score}}`
+De som skårer lavt liker dårlig forandring og foretrekker kjente rutiner.`
     },
     {
       facet: 5,
@@ -103,7 +101,7 @@ De ser på intellektuelle aktiviteter som bortkastet tid. Intellekt burde
 ikke sammenstilles med intelligens. Intellekt er en intellektuell stil,
 ikke en intellektuell evne, selv om de som skårer høyt på intellekt-skåren,
 skårer noe høyere enn de som er skårer lavt på intellekt på
-standardiserte intelligenstester. Ditt resultat på intellekt er {{score}}.`
+standardiserte intelligenstester.`
     },
     {
       facet: 6,
@@ -116,8 +114,7 @@ og regler, sympati for lovbrytere og en forkjærlighet for det tvetydige,
 kaos og uorden. De som er psykologisk konservative foretrekker
 trygghet og stabilitet ved å holde seg til tradisjoner. psykologisk
 liberalisme og konservatisme er ikke det samme som politisk tilhørighet,
-men er absolutt med å trekke individet mot visse politiske partier. Ditt
-resultat på liberale verdier er {{score}}`
+men er absolutt med å trekke individet mot visse politiske partier.`
     }
   ]
 }

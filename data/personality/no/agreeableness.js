@@ -26,19 +26,19 @@ soldater.`,
       score: 'negative',
       text: `Ditt resultat på medmenneskelighet er lavt, noe som tyder på at du
 er mindre opptatt av andres behov enn dine egne. Folk ser deg som tøff,
-kritisk og kompromissløs. Ditt resultat er: {{score}}`
+kritisk og kompromissløs.`
     },
     {
       score: 'neutral',
       text: `Ditt resultat på medmenneskelighet er gjennomsnittlig, noe som
 tyder på at du er noe opptatt av andres behov, men generelt lite villig
-til å ofre deg for andre. Ditt resultat er: {{score}}`
+til å ofre deg for andre.`
     },
     {
       score: 'positive',
       text: `Ditt høye resultat på medmenneskelighet tyder på en utpreget
 interesse for andres behov og deres ve og vel. Du er hyggelig,
-sympatisk og samarbeidsvillig. Ditt resultat er: {{score}}`
+sympatisk og samarbeidsvillig.`
     }
   ],
   facets: [
@@ -48,7 +48,7 @@ sympatisk og samarbeidsvillig. Ditt resultat er: {{score}}`
       text: `En person som skårer høyt på tillit ser som oftest på andre
 mennesker som rettferdige, ærlige og at de har gode hensikter.
 Personer som skårer lavt på tillit ser på andre som selvopptatte,
-bedragerske og potensielt farlige. Ditt resultat på tillit er {{score}}`
+bedragerske og potensielt farlige.`
     },
     {
       facet: 2,
@@ -59,9 +59,9 @@ bedragerske og potensielt farlige. Ditt resultat på tillit er {{score}}`
 å bløffe og skjule ting i sosiale relasjoner. Folk synes det er relativt lett
 å forholde seg til de likeframme individene som skårer høyt her. De finner det
 generelt vanskeligere å forholde seg til de som skårer lavt. Det skal
-understrekes at de som skårer lavt er <U>ikke</u> prinsippløse eller
+understrekes at de som skårer lavt er ikke prinsippløse eller
 umoralske; de er bare mer vaktsomme og mindre tilbøyelige til å avdekke
-hele sannheten. Ditt resultat på moral er {{score}}.`
+hele sannheten.`
     },
     {
       facet: 3,
@@ -72,8 +72,7 @@ hjelpe de som er i nød. Altruistiske mennesker synes at det å gjøre
 ting for andre er en form for selvrealisering snarere enn et offer.
 De som skårer lavt på denne fasetten er ikke spesielt opptatt av å
 hjelpe de som er i nød. Når man blir bedt om hjelp føles det som en
-byrde, ikke som en mulighet til selv-realisering. Ditt resultat på
-altruisme er {{score}}`
+byrde, ikke som en mulighet til selv-realisering.`
     },
     {
       facet: 4,
@@ -82,7 +81,7 @@ altruisme er {{score}}`
 konfrontasjoner. De er svært tilbøyelige til å finne kompromisser eller
 de vil undertrykke egne behov for å komme overens med andre. De som
 skårer lavt på denne fasetten er mer tilbøyelige til å støte andre for
-å oppnå egne mål. Ditt resultat på føyelighet er {{score}}`
+å oppnå egne mål.`
     },
     {
       facet: 5,
@@ -90,9 +89,9 @@ skårer lavt på denne fasetten er mer tilbøyelige til å støte andre for
       text: `De som skårer høyt på denne fasetten liker ikke å hevde at de er
 bedre enn andre mennesker. I noen tilfeller kan denne holdningen skyldes
 lav selvfølelse eller selvtillit. Allikevel, noen mennesker med høy
-selvtillit finner ubeskjedenhet upassende. De som <U>er</u> er villig
+selvtillit finner ubeskjedenhet upassende. De som er er villig
 til å beskrive seg selv som overlegne andre mennesker blir ofte sett på
-som ubehagelig arrogante av andre. Ditt resultat på beskjedenhet er {{score}}`
+som ubehagelig arrogante av andre.`
     },
     {
       facet: 6,
@@ -101,8 +100,7 @@ som ubehagelig arrogante av andre. Ditt resultat på beskjedenhet er {{score}}`
 følsomme. De føler smerten til andre og blir lett rørt til medfølelse.
 De som skårer lavt blir ikke så berørt av menneskelig lidelse. De er stolt
 av at de klarer å gjøre objektive vurderinger basert på fornuft. De er
-mer opptatt av sannhet og upartisk rettferdighet enn barmhjertighet. Ditt
-resultat på følsomhet er {{score}}`
+mer opptatt av sannhet og upartisk rettferdighet enn barmhjertighet.`
     }
   ]
 }

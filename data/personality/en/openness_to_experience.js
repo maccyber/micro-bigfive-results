@@ -38,19 +38,19 @@ a number of service occupations.`,
       score: 'negative',
       text: `Your score on Openness to Experience is low, indicating you like to think in
 plain and simple terms. Others describe you as down-to-earth, practical,
-and conservative. Your score is: {{score}}`
+and conservative.`
     },
     {
       score: 'neutral',
       text: `Your score on Openness to Experience is average, indicating you enjoy
 tradition but are willing to try new things. Your thinking is neither
 simple nor complex. To others you appear to be a well-educated person
-but not an intellectual. Your score is: {{score}}`
+but not an intellectual.`
     },
     {
       score: 'positive',
       text: `Your score on Openness to Experience is high, indicating you enjoy novelty,
-variety, and change. You are curious, imaginative, and creative. Your score is: {{score}}`
+variety, and change. You are curious, imaginative, and creative.`
     }
   ],
   facets: [
@@ -60,8 +60,7 @@ variety, and change. You are curious, imaginative, and creative. Your score is: 
       text: `To imaginative individuals, the real world is
 often too plain and ordinary. High scorers on this scale use fantasy as a
 way of creating a richer, more interesting world. Low scorers are on this
-scale are more oriented to facts than fantasy. Your level of imagination
-is {{score}}`
+scale are more oriented to facts than fantasy.`
     },
     {
       facet: 2,
@@ -70,17 +69,16 @@ is {{score}}`
 art and in nature. They become easily involved and absorbed in artistic
 and natural events. They are not necessarily artistically trained nor
 talented, although many will be. The defining features of this scale are
-<I>interest in</I>, and <I>appreciation of</I> natural and
+interest in, and appreciation of natural and
 artificial beauty. Low scorers lack aesthetic sensitivity and interest in
-the arts. Your level of artistic interests is {{score}}`
+the arts.`
     },
     {
       facet: 3,
       title: 'Emotionality',
       text: `Persons high on Emotionality have good access
 to and awareness of their own feelings. Low scorers are less aware of
-their feelings and tend not to express their emotions openly. Your
-level of emotionality is {{score}}`
+their feelings and tend not to express their emotions openly.`
     },
     {
       facet: 4,
@@ -89,8 +87,7 @@ level of emotionality is {{score}}`
 try new activities, travel to foreign lands, and experience different
 things. They find familiarity and routine boring, and will take a new
 route home just because it is different. Low scorers tend to feel
-uncomfortable with change and prefer familiar routines. Your level of
-adventurousness is {{score}}`
+uncomfortable with change and prefer familiar routines.`
     },
     {
       facet: 5,
@@ -101,11 +98,10 @@ Intellect love to play with ideas. They are open-minded to new and unusual
 ideas, and like to debate intellectual issues. They enjoy riddles, puzzles,
 and brain teasers. Low scorers on Intellect prefer dealing with either
 people or things rather than ideas. They regard intellectual exercises as a
-waste of time. Intellect should <U>not</u> be equated with intelligence.
+waste of time. Intellect should not be equated with intelligence.
 Intellect is an intellectual style, not an intellectual ability, although
-high scorers on Intellect score <U>slightly</u> higher than low-Intellect
-individuals on standardized intelligence tests. Your level of intellect
-is {{score}}.`
+high scorers on Intellect score slightly higher than low-Intellect
+individuals on standardized intelligence tests.`
     },
     {
       facet: 6,
@@ -117,8 +113,7 @@ hostility toward rules, sympathy for law-breakers, and love of ambiguity,
 chaos, and disorder. Psychological conservatives prefer the security and
 stability brought by conformity to tradition. Psychological liberalism
 and conservatism are not identical to political affiliation, but certainly
-incline individuals toward certain political parties. Your level of
-liberalism is {{score}}`
+incline individuals toward certain political parties.`
     }
   ]
 }
