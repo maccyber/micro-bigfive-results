@@ -45,7 +45,7 @@ forvente av livsutfordringer. Andre ser på deg som følsom og sensibel.`
       facet: 1,
       title: 'Angst',
       text: `Det som kalles for "fight-or-flight" eller "kamp-flukt"-responsen
-      i hjernen blir hos engstelige individer aktivert for raskt. Derfor vil
+i hjernen blir hos engstelige individer aktivert for raskt. Derfor vil
 individer som skårer høyt her lett føle at det er fare på ferde. De kan være
 redde for spesifikke situasjoner eller kan være generelt fryktsomme. De føler
 seg anspente, urolige og nervøse. Personer som skårer lavt på angst er

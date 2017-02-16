@@ -31,8 +31,8 @@ venner.`
     {
       score: 'neutral',
       text: `Ditt resultat på ekstroversjon er gjennomsnittlig, noe som tyder
-      på at du verken foretrekker å være alene eller en godmodig pratemaker. Du
-      liker å være med andre, samtidig som du også setter pris på alene-tid.`
+på at du verken foretrekker å være alene eller en godmodig pratemaker. Du
+liker å være med andre, samtidig som du også setter pris på alene-tid.`
     },
     {
       score: 'positive',
