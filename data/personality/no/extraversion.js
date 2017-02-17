@@ -73,7 +73,7 @@ som skal foregå i gruppa.`
       title: 'Aktivitet',
       text: `Aktive individer er travle og lever hektiske liv. De er som oftest
 i bevegelse, er rakse og energiske, og de er med på mange aktiviteter.
-Mennesker som skårer lavt på dette er roliger og følger et mer avslappet
+Mennesker som skårer lavt på dette er roligere og følger et mer avslappet
 løp.`
     },
     {

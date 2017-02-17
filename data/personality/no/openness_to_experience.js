@@ -91,7 +91,7 @@ De som skårer lavt liker dårlig forandring og foretrekker kjente rutiner.`
       title: 'Intellekt',
       text: `Intellekt og kunstnerisk sans er de to viktigeste og mest sentrale
 aspektene ved åpenhet for erfaringer. De som skårer høyt på intellekt liker å
-leke med tanker og idéer. De er åpne ovenfor nye og utradisjonelle idéer
+leke med tanker og idéer. De er åpne ovenfor nye utradisjonelle idéer
 og liker å diskutere ulike intellektuelle problemer. De liker å løse gåter,
 puslespill og hjernetrim. De som skårer lavt på dette foretrekker å ha med
 virkelige mennesker å gjøre framfor intellektuelle problemstillinger.
