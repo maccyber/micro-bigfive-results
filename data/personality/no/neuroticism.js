@@ -52,16 +52,16 @@ Andre ser på deg som følsom og sensibel.`
       title: 'Angst',
       text: `Det som kalles for "fight-or-flight" eller "kamp-flukt"-responsen i hjernen blir hos engstelige individer aktivert for raskt.
 <br>
-Derfor vil individer som skårer høyt her lett føle at det er fare på ferde.
+Derfor vil individer som skårer <u>høyt</u> her lett føle at det er fare på ferde.
 <br>
 De kan være redde for spesifikke situasjoner eller kan være generelt fryktsomme.
 <br>
-De føler seg anspente, urolige og nervøse. Personer som skårer lavt på angst er generelt rolige og fryktløse.`
+De føler seg anspente, urolige og nervøse. Personer som skårer <u>lavt</u> på angst er generelt rolige og fryktløse.`
     },
     {
       facet: 2,
       title: 'Sinne',
-      text: `Personer som skårer høyt på sinne blir ergerlige når ting ikke går deres vei.
+      text: `Personer som skårer <u>høyt</u> på sinne blir ergerlige når ting ikke går deres vei.
 <br>
 De er vare på måten de blir behandlet og opptatt av å bli behandlet rettferdig, de blir opprørte og bitre
 <br>
@@ -71,16 +71,16 @@ Denne fasetten måler tendensen til å føle sinne; om eller
 <br>
 om ikke personen uttrykker misnøye eller fiendtlighet avhenger av individets nivå når det gjelder medmenneskelighet.
 <br>
-De som skårer lavt blir ikke så ofte eller fort sinte.`
+De som skårer <u>lavt</u> blir ikke så ofte eller fort sinte.`
     },
     {
       facet: 3,
       title: 'Depresjon',
       text: `Denne fasetten måler tendensen til å føle seg trist, motløs eller nedstemt.
 <br>
-De som skårer høyt mangler energi og har problemer med å ta initiativet til aktiviteter.
+De som skårer <u>høyt</u> mangler energi og har problemer med å ta initiativet til aktiviteter.
 <br>
-De som skårer lavt pleier å være fri for disse depressive følelsene.`
+De som skårer <u>lavt</u> pleier å være fri for disse depressive følelsene.`
     },
     {
       facet: 4,
@@ -93,7 +93,7 @@ De blir ofte brydd og føler skam. Frykten for at andre skal kritisere dem eller
 <br>
 overdrevet og er ikke reell, men det åpenbare ubehaget kan gjøre frykten til en selvoppfyllende profeti.
 <br><br>
-De som skårer lavt, derimot, deler ikke det feilaktige inntrykket av at alle vurderer og dømmer dem.
+De som skårer <u>lavt</u>, derimot, deler ikke det feilaktige inntrykket av at alle vurderer og dømmer dem.
 <br>
 De føler seg ikke nervøse i sosiale situasjoner.`
     },
@@ -104,14 +104,14 @@ De føler seg ikke nervøse i sosiale situasjoner.`
 <br>
 De styrer ofte mot kortlivede gleder og det som innkasserer rask belønning framfor det som gir glede i det lange løp.
 <br>
-De som skårer lavt opplever ikke sterke, uimotståelige lyster og blir dermed ikke fristet til å kaste seg ut i ting.`
+De som skårer <u>lavt</u> opplever ikke sterke, uimotståelige lyster og blir dermed ikke fristet til å kaste seg ut i ting.`
     },
     {
       facet: 6,
       title: 'Sårbarhet',
-      text: `De som skårer høyt på sårbarhet opplever panikk, forvirring og hjelpeløshet i pressede eller stressede situasjoner.
+      text: `De som skårer <u>høyt</u> på sårbarhet opplever panikk, forvirring og hjelpeløshet i pressede eller stressede situasjoner.
 <br>
-De som skårer lavt føler seg roligere, sikre og klarttenkende når de er stresset.`
+De som skårer <u>lavt</u> føler seg roligere, sikre og klarttenkende når de er stresset.`
     }
   ]
 }

@@ -51,16 +51,16 @@ Du foretrekker å være med andre mesteparten av tiden.`
 <br>
 De får letter venner, og det er enkelt for dem å danne nære, intime forhold.
 <br>
-De som skårer lavt på vennlighet er ikke nødvendvis kalde og fiendtlige, men de knytter seg ikke til andre og blir
+De som skårer <u>lavt</u> på vennlighet er ikke nødvendvis kalde og fiendtlige, men de knytter seg ikke til andre og blir
 <br>
 oppfattet som distanserte og reserverte.`
     },
     {
       facet: 2,
       title: 'Sosiabilitet',
-      text: `Personer med høy sosiabilitet setter pris på andres selskap og finner det stimulerende og får mye ut av det.
+      text: `Personer med <u>høy</u> sosiabilitet setter pris på andres selskap og finner det stimulerende og får mye ut av det.
 <br>
-De synes det er spennende med mange mennesker. De som skårer lavt føler seg overveldet av mange mennesker, og unngår derfor aktivt slike situasjoner.
+De synes det er spennende med mange mennesker. De som skårer <u>lavt</u> føler seg overveldet av mange mennesker, og unngår derfor aktivt slike situasjoner.
 <br>
 Det er ikke det at de nødvendigvis misliker å være med mennesker fra tid til annen, men deres behov for privatliv og tid for seg selv
 <br>
@@ -69,32 +69,32 @@ er større enn for individer som skårer høyt her.`
     {
       facet: 3,
       title: 'Selvmarkering',
-      text: `De som skårer høyt på selvmarkering liker å si i fra, ta ansvar og styre andres aktiviteter. De er ofte leder i grupper.
+      text: `De som skårer <u>høyt</u> på selvmarkering liker å si i fra, ta ansvar og styre andres aktiviteter. De er ofte leder i grupper.
  <br>
- De som skårer lavt pleier ikke å være så snakkesalige og lar andre kontrollere det som skal foregå i gruppa.`
+ De som skårer <u>lavt</u> pleier ikke å være så snakkesalige og lar andre kontrollere det som skal foregå i gruppa.`
     },
     {
       facet: 4,
       title: 'Aktivitet',
       text: `Aktive individer er travle og lever hektiske liv. De er som oftest i bevegelse, er rakse og energiske, og de er med på mange aktiviteter.
 <br>
-Mennesker som skårer lavt på dette er roligere og følger et mer avslappet løp.`
+Mennesker som skårer <u>lavt</u> på dette er roligere og følger et mer avslappet løp.`
     },
     {
       facet: 5,
       title: 'Spennings-søking',
-      text: `De som skårer høyt på dette kjeder seg lett hvis de ikke opplever så mye stimuli. De elsker mye lys og fart og spenning.
+      text: `De som skårer <u>høyt</u> på dette kjeder seg lett hvis de ikke opplever så mye stimuli. De elsker mye lys og fart og spenning.
 <br>
-De lever ofte risikofullt og søker spenning. De som skårer lavt blir satt ut av støy og bråk og oppsøker ikke fart og spenning.`
+De lever ofte risikofullt og søker spenning. De som skårer <u>lavt</u> blir satt ut av støy og bråk og oppsøker ikke fart og spenning.`
     },
     {
       facet: 6,
       title: 'Positive følelser',
       text: `Denne fasetten måler positive humørsvingninger og følelser, ikke negative følelser (som er en del av nevrotisisme-området).
 <br>
-Personer som skårer høyt her opplever ofte en rekke positive følelser, slik som glede, entusiasme og begeistring.
+Personer som skårer <u>høyt</u> her opplever ofte en rekke positive følelser, slik som glede, entusiasme og begeistring.
 <br>
-De som skårer lavt er ikke så tilbøyelige til å føle at de bobler over av energi og glede.`
+De som skårer <u>lavt</u> er ikke så tilbøyelige til å føle at de bobler over av energi og glede.`
     }
   ]
 }

@@ -35,8 +35,8 @@ Lukkede personligheter foretrekker det kjente framfor det ukjente; de er konserv
 Åpenhet blir ofte sett på som sunnere og mer modent av psykologer, kanskje fordi de ofte selv er åpne for erfaringer.
 <br><br>
 Men åpne og lukkede måter å tenke på kan være nyttig i ulike miljøer. Den intellektuelle tenkemåten til en åpen person
-<br><br>
-kan fungere bra hos en professor, men forskning har vist at lukket tenkning kan relateres til framragende arbeid i politietaten,innenfor salg og i en rekke service-yrker.`,
+<br>
+kan fungere bra hos en professor, men forskning har vist at lukket tenkning kan relateres til framragende arbeid i politietaten, innenfor salg og i en rekke service-yrker.`,
   results: [
     {
       score: 'negative',
@@ -63,14 +63,14 @@ Tenkningen din er verken enkel eller kompleks. For andre framstår du som en vel
       title: 'Fantasi',
       text: `For individer med mye fantasi er den virkelige verden ofte for enkel og ordinær.
 <br>
-De som skårer høyt her bruker fantasien for å skape seg en rikere og mer interessant verden.
+De som skårer <u>høyt</u> her bruker fantasien for å skape seg en rikere og mer interessant verden.
 <br>
-De som skårer lavt her er mer faktaorienterte.`
+De som skårer <u>lavt</u> her er mer faktaorienterte.`
     },
     {
       facet: 2,
       title: 'Estetikk',
-      text: `De som skårer høyt her elsker skjønnhet, både i kunsten og naturen.
+      text: `De som skårer <u>høyt</u> her elsker skjønnhet, både i kunsten og naturen.
 <br>
 De lar seg lett rive med og begeistres av det kunstneriske og det som skjer i naturen.
 <br>
@@ -78,31 +78,32 @@ De er ikke nødvendigvis talentfulle eller utdannet innenfor disse områdene, se
 <br>
 Trekkene som definerer denne skalaen er interesse for, og verdsettelse av naturlig og kunstnerisk
 <br>
-skjønnhet. De som skårer lavt mangler estetisk sans og interesse for kunst.`
+skjønnhet. De som skårer <u>lavt</u> mangler estetisk sans og interesse for kunst.`
     },
     {
       facet: 3,
       title: 'Følelser',
-      text: `Personer som skårer høyt på følelser har god kontakt med sine egne følelser.
-<br>De som skårer lavt er mindre oppmerksomme på egne følelser og vil ikke gi åpent uttrykk for dem.`
+      text: `Personer som skårer <u>høyt</u> på følelser har god kontakt med sine egne følelser.
+<br>
+De som skårer <u>lavt</u> er mindre oppmerksomme på egne følelser og vil ikke gi åpent uttrykk for dem.`
     },
     {
       facet: 4,
       title: 'Eventyrlyst',
-      text: `De som skårer høyt på dette vil gjerne prøve nye aktiviteter, reise til fremmede land og oppleve nye ting.
+      text: `De som skårer <u>høyt</u> på dette vil gjerne prøve nye aktiviteter, reise til fremmede land og oppleve nye ting.
 <br>
 De synes rutine og det kjente er kjedelig og vil velge en annen vei hjem kun fordi den er annerledes.
 <br>
-De som skårer lavt liker dårlig forandring og foretrekker kjente rutiner.`
+De som skårer <u>lavt</u> liker dårlig forandring og foretrekker kjente rutiner.`
     },
     {
       facet: 5,
       title: 'Intellekt',
       text: `Intellekt og kunstnerisk sans er de to viktigeste og mest sentrale aspektene ved åpenhet for erfaringer.
 <br>
-De som skårer høyt på intellekt liker å leke med tanker og idéer. De er åpne ovenfor nye utradisjonelle idéer og liker å diskutere ulike intellektuelle problemer.
+De som skårer <u>høyt</u> på intellekt liker å leke med tanker og idéer. De er åpne ovenfor nye utradisjonelle idéer og liker å diskutere ulike intellektuelle problemer.
 <br>
-De liker å løse gåter, puslespill og hjernetrim. De som skårer lavt på dette foretrekker å ha med virkelige mennesker å gjøre
+De liker å løse gåter, puslespill og hjernetrim. De som skårer <u>lavt</u> på dette foretrekker å ha med virkelige mennesker å gjøre
 <br>
 framfor intellektuelle problemstillinger. De ser på intellektuelle aktiviteter som bortkastet tid. Intellekt burde ikke sammenstilles med intelligens.
 <br>

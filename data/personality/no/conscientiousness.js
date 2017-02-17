@@ -83,34 +83,34 @@ Dette betyr at du setter deg klare mål og følger dem fast. Andre ser på deg s
       title: 'Kompetanse',
       text: `Kompetanse beskriver evnen til å oppnå ting.
 <br>
-De som skårer høyt mener at de har intelligensen (fornuften), drivet og selvkontrollen som kreves for å lykkes.
+De som skårer <u>høyt</u> mener at de har intelligensen (fornuften), drivet og selvkontrollen som kreves for å lykkes.
 <br>
-De som skårer lavt føler seg ikke så effektive og føler at de ikke har så god kontroll på livet sitt`
+De som skårer <u>lavt</u> føler seg ikke så effektive og føler at de ikke har så god kontroll på livet sitt`
     },
     {
       facet: 2,
       title: 'Orden',
-      text: `Personer med høy skåre på orden er velorganiserte.
+      text: `Personer med <u>høy</u> skåre på orden er velorganiserte.
 <br>
-De liker å  ha rutiner og skjemaer for å regulere livet sitt.
+De liker å ha rutiner og skjemaer for å regulere livet sitt.
 <br>
-De lager lister og legger planer. De som skårer lavter uorganiserte og usystematiske`
+De lager lister og legger planer. De som skårer <u>lavt</u> er uorganiserte og usystematiske`
     },
     {
       facet: 3,
       title: 'Pliktoppfyllenhet',
       text: `Denne fasetten gjenspeiler styrkegraden av en persons pliktfølelse.
 <br>
-De som skårer høyt på dette har en sterk følelse av moralske for-pliktelser.
+De som skårer <u>høyt</u> på dette har en sterk følelse av moralske for-pliktelser.
 <br>
-De som skårer lavt synes kontrakter, regler og reguleringer virker begrensende på dem.
+De som skårer <u>lavt</u> synes kontrakter, regler og reguleringer virker begrensende på dem.
 <br>
 De blir ofte sett på som upålitelige og til og med uansvarlige.`
     },
     {
       facet: 4,
       title: 'Prestasjonsstreben',
-      text: `Individer som skårer høyt her jobber hardt for å utmerke seg.
+      text: `Individer som skårer <u>høyt</u> her jobber hardt for å utmerke seg.
 <br>
 Deres fokusering på suksess og anerkjennelse gjør at de streber etter å nå de høye målene de har satt seg.
 <br>
@@ -118,18 +118,18 @@ De har ofte en sterk følelse og mål for det de vil med livet sitt, og de som h
 <br>
 kan være veldig ensrettede og fullstendig oppslukt av arbeidet sitt.
 <br>
-De som skårer lavt vil komme seg unna med et minimum av arbeid, og kan bli sett på som late.`
+De som skårer <u>lavt</u> vil komme seg unna med et minimum av arbeid, og kan bli sett på som late.`
     },
     {
       facet: 5,
       title: 'Selvdisiplin',
       text: `Selvdisiplin, eller hva mange kaller viljestyrke, omhandler evnen til utholdenhet, noe som
 <br>
-gjør at man fullfører oppgaver som ikke er så lystbetonte. Personer som har denne høye selvdisiplinen klarer å
+gjør at man fullfører oppgaver som ikke er så lystbetonte. Personer som har denne <u>høye</u> selvdisiplinen klarer å
 <br>
 overvinne motstanden mot å starte på slike oppgaver og klarer å heve seg over eventuelle distraksjoner mens de arbeider.
 <br><br>
-De som har lav selvdisiplin prokastinerer og viser liten evne til å
+De som har <u>lav</u> selvdisiplin prokastinerer og viser liten evne til å
 gjennomføre og fullføre oppgaver, selv oppgaver de gjerne ønsker å bli ferdige med.`
     },
     {
@@ -137,9 +137,9 @@ gjennomføre og fullføre oppgaver, selv oppgaver de gjerne ønsker å bli ferdi
       title: 'Betenksomhet',
       text: `Betenksomhet omhandler anlegget du har for å tenke igjennom ulike muligheter og alternativer du har før du handler.
 <br>
-De som skårer høyt på betenksomhet tar seg god tid når de skal fatte beslutninger.
+De som skårer <u>høyt</u> på betenksomhet tar seg god tid når de skal fatte beslutninger.
 <br>
-De som skårer lavt gjør ofte det første og beste de tenker på uten å tenke igjennom alternativer eller mulige konsekvenser av disse alternative.`
+De som skårer <u>lavt</u> gjør ofte det første og beste de tenker på uten å tenke igjennom alternativer eller mulige konsekvenser av disse alternative.`
     }
   ]
 }

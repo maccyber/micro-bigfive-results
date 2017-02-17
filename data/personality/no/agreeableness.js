@@ -51,20 +51,18 @@ Du er hyggelig, sympatisk og samarbeidsvillig.`
     {
       facet: 1,
       title: 'Tillit',
-      text: `En person som skårer høyt på tillit ser som oftest på andre
+      text: `En person som skårer <u>høyt</u> på tillit ser som oftest på andre
 mennesker som rettferdige, ærlige og at de har gode hensikter.
 <br>
-Personer som skårer lavt på tillit ser på andre som selvopptatte,
+Personer som skårer <u>lavt</u> på tillit ser på andre som selvopptatte,
 bedragerske og potensielt farlige.`
     },
     {
       facet: 2,
       title: 'Moral',
-      text: `De som skårer høyt på denne fasetten ser ikke noe behov for
-å forstille seg eller manipulere i relasjoner med andre og er derfor
-ærlige, åpne og oppriktige.
+      text: `De som skårer <u>høyt</u> på denne fasetten ser ikke noe behov for å forstille seg eller manipulere i relasjoner med andre og er derfor ærlige, åpne og oppriktige.
 <br>
-De som skårer lavt mener at det kan være nødvendig å bløffe og skjule ting i sosiale relasjoner.
+De som skårer <u>lavt</u> mener at det kan være nødvendig å bløffe og skjule ting i sosiale relasjoner.
 <br>
 Folk synes det er relativt lett å forholde seg til de likeframme individene som skårer høyt her.
 <br>
@@ -84,14 +82,14 @@ Derfor er de generelt villige til hjelpe de som er i nød. Altruistiske menneske
 <br>
 ting for andre er en form for selvrealisering snarere enn et offer.
 <br>
-De som skårer lavt på denne fasetten er ikke spesielt opptatt av å hjelpe de som er i nød.
+De som skårer <u>lavt</u> på denne fasetten er ikke spesielt opptatt av å hjelpe de som er i nød.
 <br>
 Når man blir bedt om hjelp føles det som en byrde, ikke som en mulighet til selv-realisering.`
     },
     {
       facet: 4,
       title: 'Føyelighet',
-      text: `Individer som skårer høyt på denne fasetten misliker konfrontasjoner.
+      text: `Individer som skårer <u>høyt</u> på denne fasetten misliker konfrontasjoner.
 <br>
 De er svært tilbøyelige til å finne kompromisser eller de vil undertrykke egne behov for å komme overens med andre.
 <br>
@@ -100,7 +98,7 @@ De som skårer lavt på denne fasetten er mer tilbøyelige til å støte andre f
     {
       facet: 5,
       title: 'Beskjedenhet',
-      text: `De som skårer høyt på denne fasetten liker ikke å hevde at de er bedre enn andre mennesker.
+      text: `De som skårer <u>høyt</u> på denne fasetten liker ikke å hevde at de er bedre enn andre mennesker.
 <br>
 I noen tilfeller kan denne holdningen skyldes lav selvfølelse eller selvtillit.
 <br>
@@ -111,11 +109,11 @@ De som er er villig til å beskrive seg selv som overlegne andre mennesker blir 
     {
       facet: 6,
       title: 'Følsomhet',
-      text: `Individer som skårer høyt på denne fasetten er medfølende og følsomme.
+      text: `Individer som skårer <u>høyt</u> på denne fasetten er medfølende og følsomme.
 <br>
 De føler smerten til andre og blir lett rørt til medfølelse.
 <br>
-De som skårer lavt blir ikke så berørt av menneskelig lidelse.
+De som skårer <u>lavt</u> blir ikke så berørt av menneskelig lidelse.
 <br>
 De er stolt av at de klarer å gjøre objektive vurderinger basert på fornuft.
 <br>
