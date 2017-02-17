@@ -5,7 +5,7 @@ module.exports = {
   description: `Impulser er ikke i seg dårlige, avhengig av situasjonen vil det noen ganger være
 <br>
 nødvendig med raske avgjørelser, og det å handle på den første impulsen vi får, kan være en effektiv respons.
-<br>
+<br><br>
 Videre, kan det når det er snakk om lek og spill framfor jobb, være morsomt at man kan handle spontant og impulsivt.
 <br>
 Impulsive indvider kan bli sett på som fargerike, morsomme å være sammen med og eksentriske.
@@ -15,7 +15,7 @@ Men det å være impulsiv kan også føre til problemer på mange slags måter.
 Noen impulser er antisosiale. Ukontrollerte antisosiale handlinger skader ikke bare andre
 <br>
 medlemmer av samfunnet, men kan også føre til at den som utfører de impulsive handlingene blir straffet.
-<br>
+<br><br>
 Et annet problem forbundet med impulsive handlinger er at de ifte avstedkommer umiddelbar belønning, men
 <br>
 uønskede virkninger i det lange løp. Eksempler er at man overdriver når man inngår sosiale relasjoner,
@@ -23,7 +23,7 @@ uønskede virkninger i det lange løp. Eksempler er at man overdriver når man i
 noe som kan føre til at man blir oppsagt på jobben, at man kaster fornærmelser i ansiktet på viktige bekjentskaper,
 <br>
 eller bruker stemningskapende rusmidler som til slutt er ødeleggende for helsa.
-<br>
+<br><br>
 Impulsiv atferd, selv om den ikke er veldig destruktiv, er alvorlig til hindrer for effektivitet og produksjon.
 <br>
 Når man handler impulsivt, så forhindrer det at man tenker over andre mulige handlingsalternativer, som kanskje hadde vært
@@ -37,7 +37,7 @@ Et adelsmerke på intelligens, det som virkelig skiller mennesker ut fra tidlige
 å tenke på framtidige konsekvenser før en impulsiv handling. Intelligent aktivitet går ut på at man setter seg
 <br>
 langsiktige mål, organiserer og planlegger måter å nå målene på og ikke mister målene sine av syne ved å kaste seg over kortlivede impulser.
-<br>
+<br><br>
 Forestillingen om at intelligens omhandler impulskontroll gjenspeiles godt i begrepet god dømmekraft,
 <br>
 et annet kjennemerke ved planmessighetsfasetten.
@@ -52,7 +52,7 @@ De har ofte et positivt omdømme og oppfattes som intelligente og tillitvekkende
 <br>
 de kan være tvangsmessig opptatt av perfeksjon og oppfattes som arbeidsnarkomane.
 <br>Videre, kan svært planmessige individer bli sett på som reserverte og kjedelige.
-<br>
+<br><br>
 Personer som er lite planmessige kan bli kritisert for sin upålitelighet, mangel på ambisjoner og
 <br>
 sviktende evne til å holde ut, men de vil ha mange kortvarige gleder, og de vil aldri bli betegnet som reserverte og kjedelige`,

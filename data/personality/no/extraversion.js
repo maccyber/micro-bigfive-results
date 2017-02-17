@@ -13,7 +13,7 @@ De liker å snakke i grupper, hevde seg selv og rette oppmerksomhet mot seg selv
 De <b>introverte</b> mangler livligheten, energien og aktivitesnivået til de ekstroverte.
 <br>
 De er ofte stille, nedstemte, forsiktige og lite engasjert i den sosiale verden.
-<br>
+<br><br>
 Deres mangel på sosialt engasjement bør ikke tolkes som reserverthet eller depresjon;
 <br>
 den introverte trenger bare mindre stimulering enn den ekstroverte og foretrekker å være alene.
@@ -69,9 +69,9 @@ er større enn for individer som skårer høyt her.`
     {
       facet: 3,
       title: 'Selvmarkering',
-      text: `De som skårer høyt på selvmarkering liker å si i fra, ta ansvar og styre andres aktiviteter.
-<br>
-De er ofte leder i grupper. De som skårer lavt pleier ikke å være så snakkesalige og lar andre kontrollere det som skal foregå i gruppa.`
+      text: `De som skårer høyt på selvmarkering liker å si i fra, ta ansvar og styre andres aktiviteter. De er ofte leder i grupper.
+ <br>
+ De som skårer lavt pleier ikke å være så snakkesalige og lar andre kontrollere det som skal foregå i gruppa.`
     },
     {
       facet: 4,

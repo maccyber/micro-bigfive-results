@@ -5,14 +5,16 @@ module.exports = {
   description: `Freud brukte opprinnelig begrepet nevrose for å beskrive en tilstand preget av mentalt stress, følelsesmessig
 <br>
 lidelser og en sviktende evne til å håndtere det som livet normalt krever av oss.
-<br>
+<br><br>
 Han mente at alle har noen tegn på nevrose, men at det er ulike grader av hvor mye vi plages av dette og at de spesifikke symptomene kan variere.
-I dag knytter vi nevrotisisme til tendensen vi har til å oppleve negative følelser.
 <br>
+I dag knytter vi nevrotisisme til tendensen vi har til å oppleve negative følelser.
+<br><br>
 De som skårer høyt på nevrotisisme kan oppleve en spesifikk negativ følelse slik som angst eller depresjon, men ofte vil de oppleve flere av disse følelsene.
 <br>
 Mennesker som skårer høyt på nevrotisisme er følelsemessig reaktive. De reagerer emosjonelt på hendelser som ofte ikke vil
-<br>opprøre andre, og deres reaksjoner pleier å være mer intense enn det som er normalt. De er tilbøyelige til å tolke
+<br>
+opprøre andre, og deres reaksjoner pleier å være mer intense enn det som er normalt. De er tilbøyelige til å tolke
 <br>
 vanlige situasjoner som truende, og mindre frustrasjoner kan framstå som håpløst vanskelige.
 <br><br>
@@ -63,7 +65,9 @@ De føler seg anspente, urolige og nervøse. Personer som skårer lavt på angst
 <br>
 De er vare på måten de blir behandlet og opptatt av å bli behandlet rettferdig, de blir opprørte og bitre
 <br>
-når de føler at de blir sviktet eller bedratt. Denne fasetten måler tendensen til å føle sinne; om eller
+når de føler at de blir sviktet eller bedratt.
+<br><br>
+Denne fasetten måler tendensen til å føle sinne; om eller
 <br>
 om ikke personen uttrykker misnøye eller fiendtlighet avhenger av individets nivå når det gjelder medmenneskelighet.
 <br>
@@ -88,7 +92,7 @@ Deres frykt for å bli avvist og latterliggjort får dem til å føle seg brydd 
 De blir ofte brydd og føler skam. Frykten for at andre skal kritisere dem eller gjøre dem til latter er ofte
 <br>
 overdrevet og er ikke reell, men det åpenbare ubehaget kan gjøre frykten til en selvoppfyllende profeti.
-<br>
+<br><br>
 De som skårer lavt, derimot, deler ikke det feilaktige inntrykket av at alle vurderer og dømmer dem.
 <br>
 De føler seg ikke nervøse i sosiale situasjoner.`
