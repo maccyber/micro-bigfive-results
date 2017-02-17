@@ -2,8 +2,7 @@ module.exports = {
   domain: 'C',
   title: 'Conscientiousness',
   shortDescription: 'Conscientiousness concerns the way in which we control, regulate, and direct our impulses.',
-  description: `Conscientiousness concerns the way in which we control, regulate,
-and direct our impulses. Impulses are not inherently bad;
+  description: `Impulses are not inherently bad;
 occasionally time constraints require a snap decision, and acting on
 our first impulse can be an effective response. Also, in times of
 play rather than work, acting spontaneously and impulsively can be

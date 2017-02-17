@@ -2,8 +2,7 @@ module.exports = {
   domain: 'E',
   title: 'Ekstroversjon',
   shortDescription: 'Ekstroversjon kjennetegnes av tydelig engasjement i den ytre verden.',
-  description: `Ekstroversjon kjennetegnes av tydelig engasjement i den ytre
-  verden. De ekstroverte liker å være sammen med mennesker, er fulle av energi, og
+  description: `De ekstroverte liker å være sammen med mennesker, er fulle av energi, og
 opplever ofte positive følelser. De pleier å være entusiastiske,
 handlingsorienterte individer som liker å si "Ja!" eller "La oss sette i
 gang!" når det åpner seg muligheter for å oppleve noe spennende.

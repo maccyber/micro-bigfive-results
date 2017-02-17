@@ -2,9 +2,7 @@ module.exports = {
   domain: 'A',
   title: 'Agreeableness',
   shortDescription: 'Agreeableness reflects individual differences in concern with cooperation and social harmony. Agreeable individuals value getting along with others.',
-  description: `Agreeableness reflects individual differences in concern with
-cooperation and social harmony. Agreeable individuals value getting
-along with others. They are therefore considerate, friendly,
+  description: `They are therefore considerate, friendly,
 generous, helpful, and willing to compromise their interests with
 others'. Agreeable people also have an optimistic view of human
 nature. They believe people are basically honest, decent, and

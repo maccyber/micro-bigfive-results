@@ -2,9 +2,7 @@ module.exports = {
   domain: 'C',
   title: 'Planmessighet',
   shortDescription: 'Planmessighet omhandler måten vi kontrollerer, regulerer og styrer våre impulser.',
-  description: `Planmessighet omhandler måten vi kontrollerer, regulerer og
-styrer våre impulser. Impulser er ikke i seg dårlige, avhengig av
-situasjonen vil det noen ganger være nødvendig med raske avgjørelser, og det
+  description: `Impulser er ikke i seg dårlige, avhengig av situasjonen vil det noen ganger være nødvendig med raske avgjørelser, og det
 å handle på den første impulsen vi får, kan være en effektiv respons. Videre,
 kan det når det er snakk om lek og spill framfor jobb, være morsomt at man kan
 handle spontant og impulsivt. Impulsive indvider kan bli sett på som

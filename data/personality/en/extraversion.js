@@ -2,8 +2,7 @@ module.exports = {
   domain: 'E',
   title: 'Extraversion',
   shortDescription: 'Extraversion is marked by pronounced engagement with the external world.',
-  description: `Extraversion is marked by pronounced engagement with the external
-world. Extraverts enjoy being with people, are full of energy, and
+  description: `Extraverts enjoy being with people, are full of energy, and
 often experience positive emotions. They tend to be enthusiastic,
 action-oriented, individuals who are likely to say "Yes!" or "Let's
 go!" to opportunities for excitement. In groups they like to talk,

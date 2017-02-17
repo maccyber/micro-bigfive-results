@@ -2,9 +2,7 @@ module.exports = {
   domain: 'O',
   title: 'Åpenhet for erfaringer',
   shortDescription: 'Åpenhet for erfaringer beskriver en dimensjon av en kognitiv stil der fantasi skiller kreative mennesker fra jordnære, konvensjonelle mennesker.',
-  description: `Åpenhet for erfaringer beskriver en dimensjon
-ved en kognitiv stil der fantasifullhet skiller kreative mennesker fra jordnære,
-konvensjonelle mennesker. Åpne mennesker er intellektuelt nysgjerrige,
+  description: `Åpne mennesker er intellektuelt nysgjerrige,
 setter pris på kunst, og de verdsetter skjønnhet. De pleier å være mer
 klar over sine følelser enn mennesker som er mer lukket. De tenker
 og handler ofte på individuelle og lite konforme måter. De intellektuelle skårer

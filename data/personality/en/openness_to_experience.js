@@ -2,9 +2,7 @@ module.exports = {
   domain: 'O',
   title: 'Openness To Experience',
   shortDescription: 'Openness to Experience describes a dimension of cognitive style that distinguishes imaginative, creative people from down-to-earth, conventional people.',
-  description: `Openness to Experience describes a dimension of cognitive style that
-distinguishes imaginative, creative people from down-to-earth,
-conventional people. Open people are intellectually curious,
+  description: `Open people are intellectually curious,
 appreciative of art, and sensitive to beauty. They tend to be,
 compared to closed people, more aware of their feelings. They tend to
 think and act in individualistic and nonconforming

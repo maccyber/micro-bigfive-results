@@ -4,10 +4,7 @@ module.exports = {
   shortDescription: `Medmenneskelighet henspeiler på individuelle forskjeller
 når det gjelder samarbeid og sosial harmoni. Medmenneskelige individer setter
 det å komme overens med andre høyt.`,
-  description: `Medmenneskelighet henspeiler på individuelle forskjeller
-når det gjelder samarbeid og sosial harmoni. Medmenneskelige individer
-setter det å komme overens med andre høyt. De er derfor hensynsfulle,
-vennlige og villige til å finne kompromisser dersom det er
+  description: `De er derfor hensynsfulle, vennlige og villige til å finne kompromisser dersom det er
 interessekonflikter'. Medmenneskelige individer har også et optimistisk
 syn på menneskenaturen. De tror at mennesker i bunn og grunn er ærlige,
 redelige og til å stole på. Lite medmenneskelige individer setter egne
