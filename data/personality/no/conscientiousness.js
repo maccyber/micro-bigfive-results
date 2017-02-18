@@ -42,7 +42,7 @@ sviktende evne til å holde ut, men de vil ha mange kortvarige gleder, og de vil
 aldri bli betegnet som reserverte og kjedelige`,
   results: [
     {
-      score: 'negative',
+      score: 'low',
       text: `Ditt resultat på planmessighet er lavt, noe som tyder på at du
 liker å leve i øyeblikket og gjøre det som føles bra her og nå. Arbeidet
 ditt er ofte unøyaktig og dårlig organisert.`
@@ -53,7 +53,7 @@ ditt er ofte unøyaktig og dårlig organisert.`
 du er ganske pålitelig, organisert og har kontroll på deg selv.`
     },
     {
-      score: 'positive',
+      score: 'high',
       text: `Ditt resultat på planmessighet er høyt. Dette betyr at du setter
 deg klare mål og følger dem fast. Andre ser på deg som pålitelig og
 hardt-arbeidende.`

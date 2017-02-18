@@ -21,7 +21,7 @@ introvert who scores high on the agreeableness dimension will not
 seek others out but will be quite pleasant when approached.`,
   results: [
     {
-      score: 'negative',
+      score: 'low',
       text: `Ditt resultat på ekstroversjon er lavt, noe som tyder på at du er
 introvert, reservert og stille. Du liker å være alene og aktiviteter du kan
 gjøre for deg selv. Den sosiale delen av livet ditt omfatter noen få nære
@@ -34,7 +34,7 @@ på at du verken foretrekker å være alene eller en godmodig pratemaker. Du
 liker å være med andre, samtidig som du også setter pris på alene-tid.`
     },
     {
-      score: 'positive',
+      score: 'high',
       text: `Ditt resultat på ekstroversjon er høyt, noe som tyder på at du er
 sosial, utadvendt, energisk og livlig. Du foretrekker å være med andre
 mesteparten av tiden.`

@@ -33,7 +33,7 @@ thinking is related to superior job performance in police work, sales, and
 a number of service occupations.`,
   results: [
     {
-      score: 'negative',
+      score: 'low',
       text: `Your score on Openness to Experience is low, indicating you like to think in
 plain and simple terms. Others describe you as down-to-earth, practical,
 and conservative.`
@@ -46,7 +46,7 @@ simple nor complex. To others you appear to be a well-educated person
 but not an intellectual.`
     },
     {
-      score: 'positive',
+      score: 'high',
       text: `Your score on Openness to Experience is high, indicating you enjoy novelty,
 variety, and change. You are curious, imaginative, and creative.`
     }

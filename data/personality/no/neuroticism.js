@@ -20,7 +20,7 @@ forhindre nevrotikerens evne til å tenke klart, ta beslutninger og håndtere
 stress effektivt.`,
   results: [
     {
-      score: 'negative',
+      score: 'low',
       text: `Ditt resultat på nevrotisisme er lavt, noe som tyder på at du er
 usedvanlig rolig, fattet og holder på sinnsroen. Du reagerer ikke med
 intense følelser, selv på situasjoner som de fleste mennesker vil oppfatte som stressende.`
@@ -34,7 +34,7 @@ opprørende på deg, men du er generelt i stand til å komme over disse
 følelsene og håndtere disse situasjonene.`
     },
     {
-      score: 'positive',
+      score: 'high',
       text: `Ditt resultat på nevrotisisme er høyt, noe som tyder på at du blir
 lett opprørt, selv i situasjoner som de fleste ser på som noe som man kan
 forvente av livsutfordringer. Andre ser på deg som følsom og sensibel.`
