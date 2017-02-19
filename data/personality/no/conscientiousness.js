@@ -58,11 +58,12 @@ Personer som er lite planmessige kan bli kritisert for sin upålitelighet, mange
 sviktende evne til å holde ut, men de vil ha mange kortvarige gleder, og de vil aldri bli betegnet som reserverte og kjedelige`,
   results: [
     {
-      score: 'negative',
+      score: 'low',
       text: `Ditt resultat på planmessighet er <b>lavt</b>, noe som tyder på at du
 liker å leve i øyeblikket og gjøre det som føles bra her og nå.
 <br>
 Arbeidet ditt er ofte unøyaktig og dårlig organisert.`
+
     },
     {
       score: 'neutral',
@@ -71,7 +72,8 @@ Arbeidet ditt er ofte unøyaktig og dårlig organisert.`
 Dette betyr at du er ganske pålitelig, organisert og har kontroll på deg selv.`
     },
     {
-      score: 'positive',
+      score: 'high',
+
       text: `Ditt resultat på planmessighet er <b>høyt</b>.
 <br>
 Dette betyr at du setter deg klare mål og følger dem fast. Andre ser på deg som pålitelig og hardt-arbeidende.`

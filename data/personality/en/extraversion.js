@@ -19,7 +19,7 @@ introvert who scores high on the agreeableness dimension will not
 seek others out but will be quite pleasant when approached.`,
   results: [
     {
-      score: 'negative',
+      score: 'low',
       text: `Your score on Extraversion is low, indicating you are
 introverted, reserved, and quiet. You enjoy solitude and solitary
 activities. Your socializing tends to be restricted to a few close friends.`
@@ -31,7 +31,7 @@ neither a subdued loner nor a jovial chatterbox. You enjoy time with
 others but also time alone.`
     },
     {
-      score: 'positive',
+      score: 'high',
       text: `Your score on Extraversion is high, indicating you are
 sociable, outgoing, energetic, and lively. You prefer to be around
 people much of the time.`

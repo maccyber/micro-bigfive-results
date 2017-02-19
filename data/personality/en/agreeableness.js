@@ -18,7 +18,7 @@ that require tough or absolute objective decisions. Disagreeable
 people can make excellent scientists, critics, or soldiers.`,
   results: [
     {
-      score: 'negative',
+      score: 'low',
       text: `Your score on Agreeableness is low, indicating less concern
 with others' needs than with your own. People see you as tough,
 critical, and uncompromising.`
@@ -30,7 +30,7 @@ with others' Needs, but, generally, unwillingness to sacrifice
 yourself for others.`
     },
     {
-      score: 'positive',
+      score: 'high',
       text: `Your high level of Agreeableness indicates a strong interest in
 others' needs and well-being. You are pleasant, sympathetic, and
 cooperative.`

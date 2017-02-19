@@ -22,7 +22,7 @@ regulation can diminish a neurotic's ability to think clearly, make
 decisions, and cope effectively with stress.`,
   results: [
     {
-      score: 'negative',
+      score: 'low',
       text: `Your score on Neuroticism is low, indicating that you are
 exceptionally calm, composed and unflappable. You do not react with
 intense emotions, even to situations that most people would describe
@@ -37,7 +37,7 @@ but you are generally able to get over these feelings and cope with
 these situations.`
     },
     {
-      score: 'positive',
+      score: 'high',
       text: `Your score on Neuroticism is high, indicating that you are easily
 upset, even by what most people consider the normal demands of
 living. People consider you to be sensitive and emotional.`

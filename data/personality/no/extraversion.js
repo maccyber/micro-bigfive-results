@@ -23,7 +23,8 @@ Uavhengigheten og reservasjonen til den introverte er noen ganger feilaktig sett
 In reality, an introvert who scores high on the agreeableness dimension will not seek others out but will be quite pleasant when approached.`,
   results: [
     {
-      score: 'negative',
+      score: 'low',
+
       text: `Ditt resultat på ekstroversjon er <b>lavt</b>, noe som tyder på at du er
 <br>
 introvert, reservert og stille. Du liker å være alene og aktiviteter du kan gjøre for deg selv.
@@ -37,7 +38,8 @@ Den sosiale delen av livet ditt omfatter noen få nære venner.`
 være alene eller en godmodig pratemaker. Du liker å være med andre, samtidig som du også setter pris på alene-tid.`
     },
     {
-      score: 'positive',
+      score: 'high',
+
       text: `Ditt resultat på ekstroversjon er <b>høyt</b>, noe som tyder på at du er sosial, utadvendt, energisk og livlig.
 <br>
 Du foretrekker å være med andre mesteparten av tiden.`

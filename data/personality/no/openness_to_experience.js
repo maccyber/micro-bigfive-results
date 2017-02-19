@@ -39,7 +39,7 @@ Men åpne og lukkede måter å tenke på kan være nyttig i ulike miljøer. Den 
 kan fungere bra hos en professor, men forskning har vist at lukket tenkning kan relateres til framragende arbeid i politietaten, innenfor salg og i en rekke service-yrker.`,
   results: [
     {
-      score: 'negative',
+      score: 'low',
       text: `Din skåre på åpenhet for erfaringer er lav, noe som tyder på at du liker å tenke enkelt og rett-fram begrepsmessig.
 <br>
 Andre beskriver deg som jordnær, praktisk og konservativ.`
@@ -51,7 +51,8 @@ Andre beskriver deg som jordnær, praktisk og konservativ.`
 Tenkningen din er verken enkel eller kompleks. For andre framstår du som en velutdannet person, men ikke en intellektuell.`
     },
     {
-      score: 'positive',
+      score: 'high',
+
       text: `Din skåre på åpenhet for erfaringer er høy, noe som tyder på at du liker nye ting, variasjon og forandring.
       <br>
       Du er nysgjerrig, fantasifull og kreativ.`

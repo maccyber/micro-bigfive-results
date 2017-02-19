@@ -28,7 +28,7 @@ situasjoner der det kreves at man tar tøffe og helt objektive beslutninger.
 Lite medmenneskelige individer kan bli dyktige vitenskapsmenn, kritikere eller soldater.`,
   results: [
     {
-      score: 'negative',
+      score: 'low',
       text: `Ditt resultat på medmenneskelighet er <b>lavt</b>, noe som tyder på at du
 er mindre opptatt av andres behov enn dine egne. Folk ser deg som tøff,
 kritisk og kompromissløs.`
@@ -40,7 +40,7 @@ tyder på at du er noe opptatt av andres behov, men generelt lite villig
 til å ofre deg for andre.`
     },
     {
-      score: 'positive',
+      score: 'high',
       text: `Ditt <b>høye</b> resultat på medmenneskelighet tyder på en utpreget
 interesse for andres behov og deres ve og vel.
 <br>

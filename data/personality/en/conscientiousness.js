@@ -47,7 +47,7 @@ the lines, but they will experience many short-lived pleasures and
 they will never be called stuffy.`,
   results: [
     {
-      score: 'negative',
+      score: 'low',
       text: `Your score on Conscientiousness is low, indicating you like to live
 for the moment and do what feels good now. Your work tends to be
 careless and disorganized.`
@@ -58,7 +58,7 @@ careless and disorganized.`
 reasonably reliable, organized, and self-controlled.`
     },
     {
-      score: 'positive',
+      score: 'high',
       text: `Your score on Conscientiousness is high. This means you set clear
 goals and pursue them with determination. People regard you as
 reliable and hard-working.`
