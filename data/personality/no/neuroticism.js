@@ -24,7 +24,6 @@ Disse problemene med å håndtere følelsene kan forhindre nevrotikerens evne ti
   results: [
     {
       score: 'low',
-
       text: `Ditt resultat på nevrotisisme er <b>lavt</b>, noe som tyder på at du er usedvanlig rolig,
 <br>
 fattet og holder på sinnsroen. Du reagerer ikke med intense følelser, selv på situasjoner som de fleste mennesker
@@ -33,6 +32,12 @@ vil oppfatte som stressende.`
     },
     {
       score: 'neutral',
+      text: `Din skåre på nevrotisisme er <b>gjennomsnittlig</b>, noe som indikerer at nivået av emosjonell reaktivitet er typisk for den generelle befolkningen.
+ <br>
+Stressende og frustrerende situasjoner er noe oppskakende for deg, men du er vanligvis i stand til å komme over disse følelsene og takle slike situasjoner.`
+    },
+    {
+      score: 'high',
       text: `Ditt resultat på nevrotisisme er <b>høyt</b>, noe som tyder på at du blir lett opprørt, selv
 <br>
 i situasjoner som de fleste ser på som noe som man kan forvente av livsutfordringer.
