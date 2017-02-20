@@ -12,11 +12,9 @@ I dag knytter vi nevrotisisme til tendensen vi har til å oppleve negative føle
 <br><br>
 De som skårer høyt på nevrotisisme kan oppleve en spesifikk negativ følelse slik som angst eller depresjon, men ofte vil de oppleve flere av disse følelsene.
 <br>
-Mennesker som skårer høyt på nevrotisisme er følelsemessig reaktive. De reagerer emosjonelt på hendelser som ofte ikke vil
+Mennesker som skårer høyt på nevrotisisme er følelsemessig reaktive. De reagerer emosjonelt på hendelser som ofte ikke vil opprøre andre, og deres reaksjoner
 <br>
-opprøre andre, og deres reaksjoner pleier å være mer intense enn det som er normalt. De er tilbøyelige til å tolke
-<br>
-vanlige situasjoner som truende, og mindre frustrasjoner kan framstå som håpløst vanskelige.
+pleier å være mer intense enn det som er normalt. De er tilbøyelige til å tolke vanlige situasjoner som truende, og mindre frustrasjoner kan framstå som håpløst vanskelige.
 <br><br>
 Deres negative emosjonelle reaksjoner pleier å vedvare i usedvanlig lange perioder.
 <br>
@@ -55,7 +53,9 @@ Derfor vil individer som skårer <u>høyt</u> her lett føle at det er fare på 
 <br>
 De kan være redde for spesifikke situasjoner eller kan være generelt fryktsomme.
 <br>
-De føler seg anspente, urolige og nervøse. Personer som skårer <u>lavt</u> på angst er generelt rolige og fryktløse.`
+De føler seg anspente, urolige og nervøse.
+<br>
+Personer som skårer <u>lavt</u> på angst er generelt rolige og fryktløse.`
     },
     {
       facet: 2,
