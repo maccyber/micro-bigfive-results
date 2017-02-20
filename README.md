@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/maccyber/micro-bigfive-results.svg?branch=master)](https://travis-ci.org/maccyber/micro-bigfive-results)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Code Climate](https://codeclimate.com/github/maccyber/micro-bigfive-results/badges/gpa.svg)](https://codeclimate.com/github/maccyber/micro-bigfive-results)
 
 # micro-bigfive-results
 
