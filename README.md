@@ -5,7 +5,7 @@
 
 Example: https://results.bigfive.maccyber.io/
 
-micro webservice that returs bigfive results score
+micro webservice that returns bigfive results score
 
 ## Request
 
@@ -90,13 +90,20 @@ Use [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language 
 $ now https://github.com/maccyber/micro-bigfive-results
 ```
 
+## Related
+- [bigfive-web](https://github.com/maccyber/bigfive-web) Web frontend for bigfive tests
+- [micro-bigfive-questions](https://github.com/maccyber/micro-bigfive-questions) Webservice that returns bigfive questions
+- [micro-bigfive-evaluator](https://github.com/maccyber/micro-bigfive-evaluator) Webservice that evaluates bigfive questions
+- [micro-bigfive-generator](https://github.com/maccyber/micro-bigfive-generator) Webservice that generates and saves results to bigfive-web
+- [micro-bigfive-save](https://github.com/maccyber/micro-bigfive-save) Webservice that stores bigfive answers
+
 ## License
 
 [MIT](LICENSE)
 
 ## About
 
-Created by [zrrzzt](https://github.com/zrrrzzt) and [maccyber](https://github.com/maccyber)
+Created with <3 by [zrrzzt](https://github.com/zrrrzzt) and [maccyber](https://github.com/maccyber)
 
 ![alt text](https://robots.kebabstudios.party/zrrrzzt.png "Robohash image of zrrrzzt") 
 ![alt text](https://robots.kebabstudios.party/maccyber.png "Robohash image of maccyber")
