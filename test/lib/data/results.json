@@ -1,32 +1,3 @@
-[![Build Status](https://travis-ci.org/maccyber/micro-bigfive-results.svg?branch=master)](https://travis-ci.org/maccyber/micro-bigfive-results)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-
-# micro-bigfive-results
-
-Example: https://results.bigfive.maccyber.io/
-
-micro webservice that returns bigfive results score
-
-## Request
-
-```sh
-$ curl -v http://localhost:3000/getResults -d '{
-  "testType": "personality",
-  "langCode": "en",
-  "data": {
-    "O": { "score":33, "count":10, "result":"high", "facet":{} },
-    "N": { "score":21, "count":10, "result":"low", "facet":{} },
-    "E": { "score":31, "count":10, "result":"high", "facet":{} },
-    "C": { "score":31, "count":10, "result":"high", "facet":{} },
-    "A": { "score":30, "count":10, "result":"neutral", "facet":{} }
-  }
-}
-'
-```
-
-## Results
-
-```JavaScript
 [
   {
     "domain": "O",
@@ -79,41 +50,3 @@ $ curl -v http://localhost:3000/getResults -d '{
     "text": "Your level of Agreeableness is average, indicating some concern\nwith others' Needs, but, generally, unwillingness to sacrifice\nyourself for others."
   }
 ]
-```
-
-## Supported languages
-
-Set ```langCode``` to code
-
-| Code | Name |
-| ---- | ---- |
-| en   | English |
-| no   | Norwegian |
-
-## Translation
-
-Use [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code.
-
-## Deploy using [Now](https://zeit.co/now)
-
-```sh
-$ now https://github.com/maccyber/micro-bigfive-results
-```
-
-## Related
-- [bigfive-web](https://github.com/maccyber/bigfive-web) Web frontend for bigfive tests
-- [micro-bigfive-questions](https://github.com/maccyber/micro-bigfive-questions) Webservice that returns bigfive questions
-- [micro-bigfive-evaluator](https://github.com/maccyber/micro-bigfive-evaluator) Webservice that evaluates bigfive questions
-- [micro-bigfive-generator](https://github.com/maccyber/micro-bigfive-generator) Webservice that generates and saves results to bigfive-web
-- [micro-bigfive-save](https://github.com/maccyber/micro-bigfive-save) Webservice that stores bigfive answers
-
-## License
-
-[MIT](LICENSE)
-
-## About
-
-Created with <3 by [zrrzzt](https://github.com/zrrrzzt) and [maccyber](https://github.com/maccyber)
-
-![alt text](https://robots.kebabstudios.party/zrrrzzt.png "Robohash image of zrrrzzt") 
-![alt text](https://robots.kebabstudios.party/maccyber.png "Robohash image of maccyber")
