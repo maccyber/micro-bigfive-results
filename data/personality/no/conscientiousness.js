@@ -28,7 +28,7 @@ Impulsiv atferd, selv om den ikke er veldig destruktiv, er alvorlig til hindrer 
 <br>
 Når man handler impulsivt, så forhindrer det at man tenker over andre mulige handlingsalternativer, som kanskje hadde vært
 <br>
-klokere enn det impulsive valget. Impulsivitet stiller også folk på sidelinja i prosjeker som krever
+klokere enn det impulsive valget. Impulsivitet stiller også folk på sidelinja i prosjekter som krever
 <br>
 organisering etappevis eller i stadier. Det en impulsiv person oppnår er derfor smått, fragmentert og lite sammenhengende.
 <br>
