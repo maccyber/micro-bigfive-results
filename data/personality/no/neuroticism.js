@@ -2,7 +2,7 @@ module.exports = {
   domain: 'N',
   title: 'Nevrotisisme',
   shortDescription: 'Nevrotisisme omhandler tendensen til å oppleve negative følelser.',
-  description: `Freud brukte opprinnelig begrepet nevrose for å beskrive en tilstand preget av mentalt stress, følelsesmessig
+  description: `Freud brukte opprinnelig begrepet nevrose for å beskrive en tilstand preget av mentalt stress, følelsesmessige
 <br>
 lidelser og en sviktende evne til å håndtere det som livet normalt krever av oss.
 <br><br>
