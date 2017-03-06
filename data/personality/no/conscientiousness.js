@@ -103,7 +103,7 @@ De lager lister og legger planer. De som skårer <u>lavt</u> er uorganiserte og 
       title: 'Pliktoppfyllenhet',
       text: `Denne fasetten gjenspeiler styrkegraden av en persons pliktfølelse.
 <br>
-De som skårer <u>høyt</u> på dette har en sterk følelse av moralske for-pliktelser.
+De som skårer <u>høyt</u> på dette har en sterk følelse av moralske forpliktelser.
 <br>
 De som skårer <u>lavt</u> synes kontrakter, regler og reguleringer virker begrensende på dem.
 <br>
