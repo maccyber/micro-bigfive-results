@@ -85,10 +85,10 @@ $ curl -v http://localhost:3000/getResults -d '{
 
 Set ```langCode``` to code
 
-| Code | Name |
-| ---- | ---- |
-| en   | English |
-| no   | Norwegian |
+| Code | Name      | Author     |
+| ---- | --------- | ---------- |
+| en   | English   |            |
+| no   | Norwegian | Eli Huseby |
 
 ## Translation
 
