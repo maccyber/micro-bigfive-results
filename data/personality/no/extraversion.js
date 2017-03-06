@@ -51,7 +51,7 @@ Du foretrekker å være med andre mesteparten av tiden.`
       title: 'Vennlighet',
       text: `Vennlige mennesker liker andre mennesker og viser åpent positive følelser de har ovenfor andre.
 <br>
-De får letter venner, og det er enkelt for dem å danne nære, intime forhold.
+De får lettere venner, og det er enkelt for dem å danne nære, intime forhold.
 <br>
 De som skårer <u>lavt</u> på vennlighet er ikke nødvendvis kalde og fiendtlige, men de knytter seg ikke til andre og blir
 <br>
