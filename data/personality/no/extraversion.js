@@ -20,7 +20,7 @@ den introverte trenger bare mindre stimulering enn den ekstroverte og foretrekke
 <br><br>
 Uavhengigheten og reservasjonen til den introverte er noen ganger feilaktig sett på som uvennlighet eller arroganse.
 <br>
-In reality, an introvert who scores high on the agreeableness dimension will not seek others out but will be quite pleasant when approached.`,
+I realiteten så vil en introvert som skårer høyt på medmennesklighetsfaktoren ikke søke andre bevisst, men synes det er ganske greit hvis andre søker deres selskap.`,
   results: [
     {
       score: 'low',
