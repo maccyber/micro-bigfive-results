@@ -78,7 +78,7 @@ er større enn for individer som skårer høyt her.`
     {
       facet: 4,
       title: 'Aktivitet',
-      text: `Aktive individer er travle og lever hektiske liv. De er som oftest i bevegelse, er rakse og energiske, og de er med på mange aktiviteter.
+      text: `Aktive individer er travle og lever hektiske liv. De er som oftest i bevegelse, er raske og energiske, og de er med på mange aktiviteter.
 <br>
 Mennesker som skårer <u>lavt</u> på dette er roligere og følger et mer avslappet løp.`
     },
