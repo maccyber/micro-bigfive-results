@@ -89,6 +89,7 @@ Set ```langCode``` to code
 | ---- | --------- | ---------- |
 | en   | English   |            |
 | no   | Norwegian | Eli Huseby |
+| es   | Spansih   | Not translated |
 
 ## Translation
 
