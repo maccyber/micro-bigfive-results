@@ -85,13 +85,11 @@ scattered.`
     {
       facet: 3,
       title: 'Dutifulness',
-      text: `Altruistic people find helping other people
-genuinely rewarding. Consequently, they are generally willing to
-assist those who are in need. Altruistic people find that doing
-things for others is a form of self-fulfillment rather than
-self-sacrifice. Low scorers on this scale do not particularly like
-helping those in need. Requests for help feel like an imposition
-rather than an opportunity for self-fulfillment.`
+      text: `This scale reflects the strength of a person's sense
+ of duty and obligation. Those who score high on this scale have a strong
+ sense of moral obligation. Low scorers find contracts, rules, and
+ regulations overly confining. They are likely to be seen as unreliable or
+ even irresponsible.`
     },
     {
       facet: 4,
