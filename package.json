@@ -42,17 +42,17 @@
     "url": "https://github.com/maccyber/micro-bigfive-results/issues"
   },
   "devDependencies": {
-    "ava": "0.18.2",
-    "axios": "0.15.3",
-    "coveralls": "2.11.15",
-    "nsp": "2.6.2",
-    "nyc": "10.1.2",
-    "standard": "8.6.0",
-    "test-listen": "1.0.1"
+    "ava": "0.25.0",
+    "axios": "0.18.0",
+    "coveralls": "3.0.0",
+    "nsp": "3.2.1",
+    "nyc": "11.4.1",
+    "standard": "11.0.0",
+    "test-listen": "1.1.0"
   },
   "dependencies": {
-    "marked": "0.3.6",
-    "micro": "7.0.6"
+    "marked": "0.3.17",
+    "micro": "9.1.4"
   },
   "now": {
     "alias": "results.bigfive.maccyber.io",
